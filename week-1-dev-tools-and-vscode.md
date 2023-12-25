@@ -1,12 +1,16 @@
 # Week 1 Dev Tools and VSCode
 
+## Skills and Competencies
+
+List of competencies from opencomplib.org
+
 **Requiements** 
 
 * [DevTools 1](https://lib.opencomplib.org/software-development/tools/chrome1.html)
 * [VSCode](https://lib.opencomplib.org/software-development/tools/vscode.html)
 
 **DevTools Master the following skills:**
-* Master the following skills:
+
 * Discuss the utility of Chrome Dev Tools for front-end web development
 * Open Chrome Dev Tools using the mouse
 * Inspect HTML elements and view CSS styles
