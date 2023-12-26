@@ -6,15 +6,15 @@ Welcome to the Level 1 Front-End Web Development Codex Academy! This course is t
 
 ### Course Structure:
 
-- [Week 1](week-1) Orientation & Introduction to Code Editor and Browser Tools
-- **Week 2:** Introduction and In-depth Study of HTML
-- **Week 3:** Cascading Style Sheets (CSS)
-- **Week 4:** Bootstrap Framework
-- **Week 5:** JavaScript Developer 1 (Basic Concepts)
-- **Week 6:** Git, Github, and Deployment
-- **Week 7:** JavaScript Developer 2 (Intermediate Concepts)
-- **Week 8:** Review Week
-- **Week 9:** Capstone Project
+- [Week 1](week-1-Dev-Tools-VSCode/README.md) Orientation & Introduction to Code Editor and Browser Tools
+- [Week 2](week-2-HTML/README.md) Introduction and In-depth Study of HTML
+- [Week 3](week-3-CSS/README.md) Cascading Style Sheets (CSS)
+- [Week 4](week-4-Bootstrap/README.md) Bootstrap Framework
+- [Week 5](week-5-JavaScript-1/README.md) JavaScript Developer 1 (Basic Concepts)
+- [Week 6](week-6-Git-Deploy/README.md) Git, Github, and Deployment
+- [Week 7](week-7-JavaScript-2/README.md) JavaScript Developer 2 (Intermediate Concepts)
+- [Week 8](week-8-Review/README.md) Review Week
+- [Week 9](week-9-Capstone/README.md) Capstone Project
 
 ## Detailed Weekly Breakdown:
 
