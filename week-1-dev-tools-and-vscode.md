@@ -50,11 +50,17 @@ Be sure to save some time for the install fest of VSCode and GitHub Desktop. The
 * Open Chrome Dev Tools using a keyboard shortcut
 * Make live changes to HTML and CSS
 
+**Assignment 1:**
+
+Change the headline of a local news website. Take a screenshot and submit.
+
+Make an account with Mimo.org. Start Intro to Web Development. Take a screenshot and submit.
+
 ## Day 2 DevTools
 
 On Day 2, we will review the DevTools concepts from Day 1. Be careful to review methodically. Students will forget, and some will be coming in new if they missed the first class.
 
-We will also introduce topics like files and servers. For simplicity, build a simple website in Replit or Codespaces and give them the live link to browse from their own browser. (If you are able to use a tunnel to share your localhost, you might do that, too.) Show them the relationship between files on the server and documents in the browser.
+We will also introduce topics like files and servers. For simplicity, instead of browsing a commercial website with Dev Tools, build a simple website in Replit or Codespaces and give them the live link to browse from their own browser. (If you are able to use a tunnel to share your localhost, you might do that, too.) Show them the relationship between files on the server and documents in the browser.
 
 You can introduce h1, p, a, and img tags. Show how images are served just like files. Demo links and folders if possible.
 
@@ -71,7 +77,7 @@ Put in missing image files to show the errors that can pop up in the console.
 
 ## Day 3: VSCode
 
-**Install Fest completes.** Students should all have VSCode installed. *(If students are having a hard time installing VSCode, that's a sign they are having trouble managing their own machine--Chromebook users will have the hardest time. Those students will require mentoring. It would be a good time to enforce mandatory mentoring sessions.)*
+**Install Fest completes.** Students should all have VSCode installed. *(If students are having a hard time installing VSCode, that's a sign they are having trouble managing their own machine--Chromebook users will have the hardest time. Those students will require mentoring. It would be a good time to enforce mandatory mentoring sessions.) As a last resort, you can have students use Codespaces in the browser.*
 
 Key concept: Students should realized the relationship between what they see in VSCode and what they see in Finder or Explorer. Students might not realize that the files they create in VSCode are actually files on their machine.
 
