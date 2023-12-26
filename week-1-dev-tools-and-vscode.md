@@ -21,6 +21,12 @@ List of competencies from opencomplib.org
 * Understand which resources and requests take longer to load
 * Simulate websites on mobile devices
 
+Ideas for Bonus: Intro to scripts...
+
+* use the console as a calculator
+* copy and paste js to run in the console
+* Install extensions in Chrome
+* Install Violent Monkey to run simple JS scripts
 
 **VSCode Master the following skills:**
 
