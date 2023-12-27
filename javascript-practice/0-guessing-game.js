@@ -20,6 +20,6 @@ if(guess === 7) {
 
 alert("Thanks for playing!");
 
-// To run this code, copy it and past it into a console in the Dev Tools.
+// To run this code, copy it and past it into the Console in the Dev Tools.
 
 // Adapted from Head First Programming by Paul Barry
