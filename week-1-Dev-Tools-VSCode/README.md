@@ -56,11 +56,26 @@ Be sure to save some time for the install fest of VSCode and GitHub Desktop. The
 * Open Chrome Dev Tools using a keyboard shortcut
 * Make live changes to HTML and CSS
 
-**Assignment 1:**
+**HTML Topics:**
 
-Change the headline of a local news website. Take a screenshot and submit.
+* What is an element?
+* Tags like: p, h1, and div
+* What is a style?
+* What is nesting?
+* What is the difference between a text node and an html node?
+* Start out with Mimo.
 
-Make an account with Mimo.org. Start Intro to Web Development. Take a screenshot and submit.
+**Participation Assignment 1:**
+
+* Change the headline of a local news website. Take a screenshot and submit.
+* Make an account with Mimo.org. Start Intro to Web Development. Take a screenshot and submit.
+* Make an account with GitHub.com. Be sure to choose a professional username. Write your username in the text when you submit the assignment.
+
+Bonus:
+
+* Change the style of text a local news website. Take a screenshot and submit
+* Make a list of keyboard shortcuts you frequently use, and those you would like to use.
+* Review the reading material. Find something new and try it. Take a screenshot and submit.
 
 ## Day 2 DevTools
 
@@ -80,6 +95,10 @@ Put in missing image files to show the errors that can pop up in the console.
 * View errors and logs in the console
 * Understand which resources and requests take longer to load
 * Simulate websites on mobile devices
+
+**HTML/JS Topics:**
+
+* img tags
 
 ## Day 3: VSCode
 
