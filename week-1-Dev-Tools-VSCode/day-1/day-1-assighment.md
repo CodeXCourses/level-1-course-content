@@ -49,8 +49,8 @@ You will access a popular new website and change the headline, and the color. Al
 ## Rubric:
 
 - **Fully Achieved - 20 pts**
-  - Screenshot shows changes in the headline
+  - Screenshot shows changes in the headline.
 - **Partially Achieved - 3 pts**
-  - Screenshot shows at least one change in the headline
+  - Screenshot shows at least one change in the headline.
 - **Not Achieved - 0 pts**
-  - Screenshot does not show at least one change in the headline
+  - Screenshot does not show at least one change in the headline.
