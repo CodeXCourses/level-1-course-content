@@ -73,7 +73,6 @@ Be sure to save some time for the install fest of VSCode and GitHub Desktop. The
 
 Bonus:
 
-* Change the style of text a local news website. Take a screenshot and submit
 * Make a list of keyboard shortcuts you frequently use, and those you would like to use.
 * Review the reading material. Find something new and try it. Take a screenshot and submit.
 
