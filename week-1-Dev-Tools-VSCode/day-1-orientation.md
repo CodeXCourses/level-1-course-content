@@ -21,3 +21,10 @@ This section might be useful to set expectations for the students.
 Starting with a gee-wiz demo that students can try, will help students realize that they can learn something interesting the first day.
 
 For example, opening dev tools and changing the headline of the local paper, has a wow factor and leads into what we will do for the Dev Tools topic in the first week. Changing colors can be fun, too. You could even introduce JavaScript by copy/pasting code into the console.
+
+## Questions for student intros
+
+Name.
+Where are you from?
+What got you interested in software dev or tech in general?
+What tech company you are interested in?
