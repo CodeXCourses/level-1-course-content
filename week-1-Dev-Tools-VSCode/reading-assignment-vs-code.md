@@ -12,4 +12,4 @@ Watch [Getting Started with VS Code](https://code.visualstudio.com/docs/introvid
 
 Read [User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings) and answer the questions. You may need to have VS Code open and follow along.
 
-1. Try it yourself: open settings and have a look. Name three setting that you might want to change and why.
+4. Try it yourself: open settings and have a look. Name three setting that you might want to change and why.
