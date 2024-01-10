@@ -1,26 +1,50 @@
 # Front-End Web Development Codex Academy: Level 1
 
+## Outline
+
 ## Overview
 
 Welcome to the Level 1 Front-End Web Development Codex Academy! This course is tailored to introduce beginners to the fundamentals of web development, guiding them from basic tools to building simple applications with JavaScript. By the course's conclusion, participants will possess a solid foundation in front-end web development.
 
 ### Course Structure:
 
-- [Week 1](week-1-Dev-Tools-VSCode/README.md) Orientation & Introduction to Code Editor and Browser Tools
-- [Week 2](week-2-HTML/README.md) Introduction and In-depth Study of HTML
-- [Week 3](week-3-CSS/README.md) Cascading Style Sheets (CSS)
-- [Week 4](week-4-Bootstrap/README.md) Bootstrap Framework
-- [Week 5](week-5-JavaScript-1/README.md) JavaScript Developer 1 (Basic Concepts)
-- [Week 6](week-6-Git-Deploy/README.md) Git, Github, and Deployment
-- [Week 7](week-7-JavaScript-2/README.md) JavaScript Developer 2 (Intermediate Concepts)
-- [Week 8](week-8-Review/README.md) Review Week
-- [Week 9](week-9-Capstone/README.md) Capstone Project
+- **Week 1:** Introduction to Code Editor, GitHub, and Browser Tools
+- **Week 2:** Introduction and In-depth Study of HTML
+- **Week 3:** Cascading Style Sheets (CSS)
+- **Week 4:** Bootstrap Framework
+- **Week 5:** JavaScript Developer 1 (Basic Concepts)
+- **Week 6:** Git, Github, and Deployment
+- **Week 7:** JavaScript Developer 2 (Intermediate Concepts)
+- **Week 8:** Review Week
+- **Week 9:** Capstone Project
 
 ## Detailed Weekly Breakdown:
 
-### Week 0: Orientation & Introduction to Tools
+### Week 1: Orientation & Introduction to Tools
 
-- **Day 1:** Kickoff the lessons, get acquainted with fellow students, set course objectives, and familiarize with the Code Editor and Browser Tools.
+Week One will be give students the tools to build and observe the building blocks of the web. They will build with VSCode, and observe with Dev Tools. It will also give an overview of general topics like HTML, CSS, servers, files, and basic networking. These topics will come naturally as we observe websites and build code.
+
+Week One will also give students a chance to get organized, register for accounts, and understand the requirements of the class.
+
+During the first week, students should acquire the following things:
+
+1. A physical notebook/notepad
+2. A digital notepad in Google Docs
+3. A password manager
+4. A set of accounts for the class: GitHub, InVision, Replit, etc...
+5. Installations of software on their machine. (Its good for them to get practice managing their machines.)
+
+
+
+- **Day 1:** Orientation, Icebreakers, Group formation. Browser Tools. Installing VSCode.
+
+- **Day 2:** VSCode Extensions, Live Server, Basic HTML (Hello World Website). Side-by-side instant feedback development setup. Specific topics: Live Server, h1 tags, p tags, div tags
+
+- **Day 3:** More features of Browser Tools, exploring the web with Browser Tools. Visit curated websites with the Browser Tools open. Try using the tags you find in your own page in VSCode.
+
+- **Day 4:** 
+
+- **Day 5:** 
 
 ### Week 1: HTML
 
