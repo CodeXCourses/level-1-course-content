@@ -4,7 +4,7 @@
 
 ### Inspector
 
-Read and review the following article/video: [Get started with viewing and changing the DOM](https://developer.chrome.com/docs/devtools/dom) 
+Read and review the following article/video: [Get started with viewing and changing the DOM](https://developer.chrome.com/docs/devtools/dom)
 
 1. Which panels in Dev Tools will you use to inspect HTML elements and change modify their style properties?
 2. What is the purpose of the Inspect icon at the top left corner of Dev Tools?
