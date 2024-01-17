@@ -1,8 +1,8 @@
 # Chromebook Setup
 
-This guide follows the blog post here: https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started
+This guide follows the blog post here: [chromebook-get-started](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started)
 
-A video that shows this clearly is here: https://www.youtube.com/watch?v=zx767PNqpBA
+A video that shows this clearly is here: [youtube](https://www.youtube.com/watch?v=zx767PNqpBA)
 
 ## Activating Development Mode
 
@@ -52,7 +52,6 @@ Then download the .deb installer for the type of chip you have. If you have an a
 
 *If you've allocated all your available space to the linux partition, you might not have space for the download. So be sure you didn't use up all the space during the Linux installation stage.
 
-
 ## Post install
 
 You should get a GitHub account and log in to GitHub with VSCode in order to be able to clone and sync your repositories. To login click on the accounts icon near the bottom left of the screen.
@@ -61,10 +60,10 @@ You should get a GitHub account and log in to GitHub with VSCode in order to be 
 
 ## Setup git user.name and user.email
 
-You will also need to set the user.email and user.name to be able to commit. This video shows you how from a terminal: https://www.youtube.com/watch?v=hklyjZGGvFw
+You will also need to set the user.email and user.name to be able to commit. This [video](https://www.youtube.com/watch?v=hklyjZGGvFw
+) shows you how do it from a terminal.
 
 These are the commands you will need:
 
     git config --global user.name "My Name"
     git config --global user.email "myemail@gmail.com"
-
