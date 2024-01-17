@@ -8,4 +8,4 @@
 * Install Node.js (LTS) on your computer Link associated with this item
 * Introduce yourself on Slack
 * Introduce yourself in Moodle (General/Announcements) Link associated with this item
-* Begin to explore the Reading/Videos for next week. Link associated with this item
+* Begin to explore the Reading/Videos for next week. Link associated with this item.
