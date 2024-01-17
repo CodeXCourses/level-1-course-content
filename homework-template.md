@@ -1,11 +1,12 @@
 # Workshop/Homework Template
 
+## Instructions
+
 ### Setup (5 min)
 
 Open your browser...
 
 Create/Fork a repo on GitHub with a README. Clone it to your local machine and open it in VSCode...
-
 
 ### Task (20-30 min)
 
