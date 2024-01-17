@@ -10,6 +10,8 @@ The purpose of this lab is to get you used to the process of creating a project 
 
 You will fork the "I love cats" website.
 
+You will clone the repository locally, to your machine. And open it in VSCode.
+
 You will make any changes you like. You must add at least 3 HTML tags, and make at least 3 commits with good commit messages. You must also format your code, so it is properly indented.
 
 ### Setup (5 min)
