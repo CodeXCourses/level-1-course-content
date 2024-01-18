@@ -12,7 +12,7 @@ Reading due for week.
 
 ## Day 3
 
-VSCode setup and extensions.
+VSCode setup and extensions. [details](./lesson-plan-3.md)
 
 ## Day 4
 
