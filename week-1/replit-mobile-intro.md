@@ -4,7 +4,7 @@ Replit's mobile app is surprisingly good for coding a webpage. It is pretty well
 
 They have features like a unix shell, an editor with auto completion, git, etc.
 
-Once you get used to the tabbed interface, its smooth and intuitive. Student will need its to be modeled, but can probably get the hang of it. While not idea, it can be a viable alternative for those without a laptop.
+Once you get used to the tabbed interface, its smooth and intuitive. Student will need its use to be modeled for them, but can probably get the hang of it once they see how it's done. While not idea, it can be a viable alternative for those without a laptop.
 
 [walkthrough on youtube](https://youtu.be/N-YS7yr5COw)
 
