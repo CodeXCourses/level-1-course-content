@@ -4,7 +4,7 @@
 
 ### Mimo
 
-Do the first three sessions of Mimo's "Intro to Web Development" Course. (These are "Discovering HTML and Tags", "Structuring Text with Tags", and "Practice")
+Do the first three sessions of Mimo's "Intro to Web Development" Course. (These are "Discovering HTML and Tags", "Structuring Text with Tags", and "Practice") and answer the following questions.
 
 1. What does the `<br>` tag do?
 2. What is a "self closing tag"?
@@ -14,7 +14,7 @@ Do the first three sessions of Mimo's "Intro to Web Development" Course. (These 
 
 ### W3 Schools
 
-The W3 schools website [https://www.w3schools.com/html/](https://www.w3schools.com/html/) is a great place to learn HTML. It also serves a general reference for all HTML tags. You will be referring to it throughout the course, so let's get familiar with it now.
+The W3 schools website [https://www.w3schools.com/html/](https://www.w3schools.com/html/) is a great place to learn HTML. It also serves as a general reference for all HTML tags. You will be referring to it throughout the course, so let's get familiar with it now.
 
 Read this page from W3 Schools. [https://www.w3schools.com/html/html_basic.asp](https://www.w3schools.com/html/html_basic.asp)
 
@@ -37,4 +37,4 @@ Answer the following questions with a brief 2-5 sentence answer.
 
 9. Browse the W3 schools website (there is a list to the left of the page) for a new tag that you have not seen yet. Explain what the tag does, and why you would use it.
 
-10. What is something more you would like to learn about HTML in general, or about particular topic, specifically? 
+10. What is something more you would like to learn about HTML in general, or about particular topic, specifically?
