@@ -31,3 +31,10 @@ A) myParagraph B) hello C) p D) <p>
 
 5. in the following: <p id="myParagraph"> hello </p>, the tag name is _____.
 A) myParagraph B) hello C) p D) <p>
+
+6. What is the primary function of the live-server extension in VS Code?
+
+A) To host websites on the internet.
+B) To automatically refresh and display HTML files in a browser.
+C) To check for errors in the code.
+D) To assist with collaborative coding.
