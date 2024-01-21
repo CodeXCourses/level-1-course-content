@@ -23,13 +23,13 @@ A) -  B) :  C) =  D) {}
 2. TD, TR, and TH are elements used in a ____.
 A) top level element B) Down, Right, Head attributes  C) CSS file D) table
 
-3. in the following: <p id="myParagraph"> hello </p>, the content is _____.
+3. in the following: `<p id="myParagraph">` hello </p>, the content is _____.
 A) myParagraph B) hello C) p D) <p>
 
-4. in the following: <p id="myParagraph"> hello </p>, the attribute's value is _____.
+4. in the following: `<p id="myParagraph">` hello </p>, the attribute's value is _____.
 A) myParagraph B) hello C) p D) <p>
 
-5. in the following: <p id="myParagraph"> hello </p>, the tag name is _____.
+5. in the following: `<p id="myParagraph">`` hello </p>, the tag name is _____.
 A) myParagraph B) hello C) p D) <p>
 
 6. What is the primary function of the live-server extension in VS Code?
