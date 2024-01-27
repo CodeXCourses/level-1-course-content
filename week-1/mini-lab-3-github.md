@@ -16,7 +16,11 @@ Add to the Readme file using Markdown.
 
 Add a few files and folders, and call them what you wish.
 
+ACP after each file you create.
+
 Bonus: create html files and populate them with tags you learned in Mimo.
+
+Note: If you haven't installed git yet, VS Code or the Terminal may ask you to install git with a popup. Clicking OK, and accepting all the defaults should be all that is required to install git on your machine.
 
 ### Turn-in (5-10 min)
 
