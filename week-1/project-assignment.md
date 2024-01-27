@@ -2,30 +2,32 @@
 
 ## Overview
 
-You will fork and modify a small website and commit the changes to GitHub. If possible, you can deploy it with GitHub Pages.
+You will fork the "I love cats" website from GitHub
 
-The purpose of this lab is to get you used to the process of creating a project and committing it to a repository. We will use this process every week for the rest of the course.
+https://github.com/rmccrear/i-love-cats-j2024
 
-## Instructions
+You will make any changes you like. You must change at least 3 things, and make at least 3 commits with good commit messages. 
 
-You will fork the "I love cats" website.
-
-You will clone the repository locally, to your machine. And open it in VSCode.
-
-You will make any changes you like. You must add at least 3 HTML tags, and make at least 3 commits with good commit messages. You must also format your code, so it is properly indented.
+You must also update the README.md to reflect your changes.
 
 ### Setup (5 min)
 
 Create/Fork the "I love cats" repo on GitHub. Clone it to your local machine and open it in VSCode.
 
-### Task (20-30 min)
+repo: https://github.com/rmccrear/i-love-cats-j2024
 
-Add at least 3 HTML tags to the index.html file.
+### Task (30 min-1 hour)
 
-Make at least 3 commits with good commit messages indicating the changes you made. A commit message should be short and to the point - no longer than 50 characters.
+First change the README.md file to have your name instead of mine, under the Contact heading. Using git, add, commit and push with the message "update readme".
 
-Make any other changes you like.
+Change at least 3 things in the index.html file. You can change text, like "cat" to "dog" or add HTML tags, if you wish.
 
-**Turn in** a link to your GitHub repo/Replit Repl. If you can, try and deploy it with GitHub Pages.
+After each change make a commit. Make at least 3 commits with good commit messages indicating the changes you made. A commit message should be short and to the point - no longer than 50 characters.
+
+Make any other changes you like. Feel free to be as creative as you want, given the time you have.
+
+When you are finished, update the Readme section "Roadmap" to include any features you added.
+
+**Turn in**  a link to your GitHub repo/Replit Repl.
 
 **Reflection (5-10 min):** In addition to turning in your work, you must also write a short reflection on the work you did. Write 3-5 sentences telling what learned, what was difficult, and what you would do differently next time.
