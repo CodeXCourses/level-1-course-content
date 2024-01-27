@@ -25,6 +25,14 @@ The README can have the following sections:
 
 Remind students to fill in the Roadmap with check marks
 
+You can start with a [starter repo](https://github.com/rmccrear/my-fav-things-demo)
+
 See [Best-README-Template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
 
+This can be a chance to demo a bird's eye view of HTML, CSS, and JS.
 
+You can also use Live Share to work on this with students.
+
+## Hours 2-3
+
+Lab time in breakout rooms.
