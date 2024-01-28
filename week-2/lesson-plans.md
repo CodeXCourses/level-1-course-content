@@ -7,5 +7,5 @@
 5. Build a mini website.
 
 Career/Group Building: Accountability
-JavaScript topic: Alerts and strings.
+JavaScript topic: Alerts and strings. Syntax of quotes.
 
