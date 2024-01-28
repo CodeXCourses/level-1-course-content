@@ -31,3 +31,21 @@ When you are finished, update the Readme section "Roadmap" to include any featur
 **Turn in**  a link to your GitHub repo/Replit Repl.
 
 **Reflection (5-10 min):** In addition to turning in your work, you must also write a short reflection on the work you did. Write 3-5 sentences telling what learned, what was difficult, and what you would do differently next time.
+
+## Rubric
+
+### Changes
+
+Limited: One or fewer changes made to content or README.md
+
+Partial: Changes made to content or README.md with a commit message.
+
+Complete: At least 3 changes made to content or README.md with commit messages.
+
+### Readme
+
+Limited: Most sections of README missing and incomplete.
+
+Partial: README contains and about, roadmap, contact, and acknowledgement sections, but may be incomplete.
+
+Complete: README contains sections that introduce project, what it does, who is behind it, and what the future goals are. (Sections: about, roadmap, contact, and acknowledgement)
