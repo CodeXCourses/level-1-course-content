@@ -73,3 +73,18 @@ Welcome to the Level 1 Front-End Web Development Codex Academy! This course is t
 This Codex Academy promises a blend of rigor and reward. Participants will notice their web development prowess enhancing with each passing week. Upon wrapping up Level 1, they'll be primed to confront advanced challenges in the subsequent levels. We're thrilled to have you onboard - let's commence this coding journey!
 
 Outline of Level 1 progress (day by day): [Excel](https://1drv.ms/x/s!AsxXYiIrLOeepWL90sG-1wEwX9xH)
+
+## JavaScript Overview
+
+- Week 1: Overview and strings/types
+  - alert()
+  - types: booleans, numbers and strings
+  - Guessing game script
+- Week 2: variables and object dot notations 
+  - access elements in JS using id attributes
+  - change appearance by changing attributes (like on font)
+- Week 3: functions (CSS functions)
+  - use CSS functions
+  - arguments
+  - argument types
+  - return values
