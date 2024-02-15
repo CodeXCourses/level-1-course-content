@@ -2,6 +2,8 @@
 
 The progression of concepts will be:
 
+Note: show a tags every day with simple-looking absolute URL, to get students used to that syntax.
+
 1. basic tags
 2. nesting tags
 3. attributes, ids, and links
