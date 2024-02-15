@@ -182,3 +182,16 @@ What happens when there's no doctype in a webpage?
 * The browser will quit
 * The browser will have to guess which version of HTML to use
 
+## CSS Quiz
+
+How can we style a website?
+
+* By adding CSS to a stylesheet
+* By adding JavaScript in a script.
+
+What happens when we style elements on a webpage in an included style sheet?
+
+* The elements will become interactive
+* Any changes to the style sheet will become visible on the webpage.
+
+
