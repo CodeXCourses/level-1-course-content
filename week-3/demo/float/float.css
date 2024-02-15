@@ -1,0 +1,14 @@
+
+main {
+  width: 80%;
+  float: left;
+  background-color: antiquewhite;
+}
+aside {
+  width: 20%;
+  float: right;
+  background-color: aqua;
+}
+footer {
+  clear: both;
+}

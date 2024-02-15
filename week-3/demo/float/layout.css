@@ -1,0 +1,34 @@
+header {
+  border: solid red;
+}
+main {
+  /* border: solid green; */
+  width: 70%;
+  float: left;
+}
+aside {
+  /* border: solid aqua; */
+  width: 29%;
+  float: left;
+}
+aside ul {
+  margin: 5px;
+  padding: 0;
+  list-style-type: none;
+}
+aside li {
+  padding: 10px;
+  background-color: lightgrey;
+  border-bottom: solid gray;
+}
+footer {
+  border: solid brown;
+  clear: left;
+}
+img {
+  width: 100px;
+  float: left;
+  padding: 10px;
+  border: solid 1px;
+  margin: 10px;
+}

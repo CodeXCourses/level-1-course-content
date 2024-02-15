@@ -1,0 +1,41 @@
+/* 1. style all the ul and ol tags with color and list-style-type */
+ul {
+  color: pink;
+}
+
+ol {
+  color: red;
+}
+
+/* style all the h1 tags with color */
+h1 {
+  color: blue;
+}
+/* style all the h3 tags with color */
+h3 {
+  color: green;
+}
+/* style the h3 tags that are descendants of article a different color */
+article h3 {
+  color: lightgreen;
+}
+
+/* style all p tags with a little padding */
+p {
+  padding: 10px;
+}
+
+/* style all p tags that are descendants of an article with a different padding */
+p {
+  padding: 15px;
+}
+/* style all p tags that are descendants of an article with a grey color */
+p {
+  padding: 15px;
+}
+
+/* style all p tags that are descendents of footer to have a small font-size (you may choose how you wish to set the size, just shrink it down) */
+
+/* style all ul tags that are descendants of an article tag with a different color and list-style-type */
+
+/* Challenge: style all ul tags that are descendants of an nav tag to become navbars. */
