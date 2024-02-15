@@ -55,3 +55,7 @@ Hands on practice with Bootstrap (breakout rooms)
 ### Hour 3 Day 3
 
 Work on assignment. Make some components: table, card, list-group
+
+This may take extra time, or even require an additional day. But it won't be too hard.
+
+One tricky thing is that the examples on getBootstrap.com have additional CSS that adds borders and backgrounds on the row/col grid. Those won't show up unless you manually add a border or a bg-color.
