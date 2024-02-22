@@ -4,7 +4,7 @@
 
 * Code Editor: [VS Code Learner 1](https://lib.opencomplib.org/software-development/tools/vscode.html)
 * Browser Tools: [Chrome Dev Tools Learner 1](https://lib.opencomplib.org/software-development/tools/chrome1.html)
-* HTML: [HTML Developer 1](https://lib.opencomplib.org/software-development/languages/html/html1.html) 
+* HTML: [HTML Developer 1](https://lib.opencomplib.org/software-development/languages/html/html1.html)
 * CSS: [CSS Developer 1](https://lib.opencomplib.org/software-development/languages/css/css1.html)
 * Bootstrap: [Bootstrap Developer 1](https://lib.opencomplib.org/software-development/technologies/frontend/bootstrap1.html)
 * JavaScript 1 of 2: [JavaScript Developer 1](https://lib.opencomplib.org/software-development/languages/javascript/javascript1.html)
