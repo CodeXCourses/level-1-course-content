@@ -40,38 +40,80 @@ We could style with Bootstrap
 
 ## Day 2
 
-Concept: conditional statements
+Concept: conditional statements, lt and gt, functions and return values
 
-Introduce a checkbox so we can use input.
+Now that we have the idea of JS in context, we will being our deep dive on JS the language
 
-Access the checkbox with ${id}.checked
+We will extract the work from yesterday into the lesson for today and put it into a Replit (in a function) and return the value of the message/state of win or lose.
 
-We can start with something like this:
+We will need to strip out the parts of the program that modify the DOM and focus on the logic. This will give us a chance to share with students the concept of the language vs. the context the language is in (the DOM).
 
-    <input type="checkbox" name="robo" id="robo">
-    <button id="runButton">Run</button>
+We may have some other examples.
 
-    runButton.onclick = function () {
-      alert(robo.checked);
-    };
+Start with this (after paring it down):
 
-And then...
-
-    runButton.onclick = function () {
-      if(robo.checked) {
-        alert("I am a robot.")l
+    function(){
+      let guess = 8;
+      let message;
+      if(guess === 7){
+        message = "correct";
       } else {
-        alert("I am a human.")l
+        message = "wrong";
       }
-    };
+      console.log(message);
+    }
 
-We can continue with more checkboxes and buttons. If students want to explore branching if statements or boolean expressions, they can try that.
+Next discuss the inputs and outputs of the original guessing game and how they entered into the program. This will lead us to the function's inputs and outputs.
 
-Step through the code in Dev Tools.
+    let guessingGame = function(guessIn){
+      let guess = guessIn;
+      if(guess === 7){
+        messageOutput = "correct";
+      } else {
+        messageOutput = "wrong";
+      }
+      return messageOutput;
+    }
+
+let message = guessingGame(7);
+console.info(message);
+
+Now, we can work on lt and gt logic.
+
+Add a less than and greater than in the if statements.
+
+Example 2:
+
+Some examples:
+
+Age check. (child, adult, senior)
+
+Price range on Amazon/Walmart. (too expensive, too cheap)
+
+speed limit (too fast, too slow)
+
+calorie intake (too low, to high)
+
+Start with a function without input or output.
+
+    let ageCheck = function () {
+      let age = 10;
+      let ageClass;
+      if(age > 65) {
+        ageClass = "senior";
+      }
+      ...
+      console.log(ageClass);
+    }
+    ageCheck();
+
+Then, add input and output
+
+Breakout room: Try one of these on your own in a breakout room.
 
 ## Day 3
 
-Concept: variables and boolean algebra, not operator
+Concept: variables and boolean algebra, not (!) operator
 
 Now that we have a reason for boolean algebra (the if-statements and the check boxes), we can introduce it.
 
@@ -132,10 +174,11 @@ concept: more variables and types -- strings, numbers and conversions
       alert("Up or down?");
     }
     // or even
-    if(numberOfPeople>9) {
-      isOverloaded = true;
+    isOverloaded = numberOfPeople > 9;
+    if(isOverLoaded) {
+      alert("This elevator has a max load of 9 people");
     } else {
-      isOverloaded = false;
+      alert("Up or down?");
     }
 
 Focus on the importance of variable names.
@@ -186,13 +229,12 @@ loops and arrays
 Continue from the previous day's work. Put the checkbox values into an array. Loop
 
 first past the post while loop.
-    
+
     fanSide = 0;
     notFanSide = 0;
 
     while(!isDecided) {
 
-      
     }
 
 
