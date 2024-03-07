@@ -24,7 +24,13 @@ Mimo is a freemium learning platform that helps with reviewing the basics of htm
 
 It's a good idea to set up Host Controls in your meeting. This allows students to join without you having to admit them. It allows you to set a TA as a co-host, as well as a few other options. [how to](https://knowledge.workspace.google.com/kb/how-to-add-a-cohost-to-a-scheduled-meeting-000007209)
 
-Recorded videos will be uploaded to you Google Drive. To make them available to students, you must manually download them to your machine, and upload them to our YouTube account using YouTube Studio.
+#### Recording in Google Meet
+
+Recorded videos will be uploaded to you Google Drive. To make them available to students, you must manually download them to your machine, and then upload them to our YouTube account using YouTube Studio.
+
+#### Breakout rooms in Google Meet
+
+Google meet has limited options for breakout rooms. You must assign participants when you create the breakout room. Participants cannot change rooms on their own. If a student enters late, they will not be automatically added to a room. To change a room, you must Edit the breakout rooms, drag the participants' names, and click "save". One way around this could be to make everyone a co-host. But that would allow them to change or close rooms, too.
 
 ### Big Blue Button
 
