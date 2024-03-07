@@ -2,7 +2,7 @@
 
 This guide follows the blog post here: [chromebook-get-started](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started)
 
-This video shows how to install and activate LINUX on Chromebook [youtube](https://youtu.be/7CKAhNIoLqY?si=F9VjFrhhUehsxP_R&t=85)
+This video shows how to install and activate LINUX on Chromebook [youtube](https://youtu.be/7CKAhNIoLqY?si=F9VjFrhhUehsxP_R)
 
 A video that shows how to install VSCode is here: [youtube](https://www.youtube.com/watch?v=zx767PNqpBA)
 
