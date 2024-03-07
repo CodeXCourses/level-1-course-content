@@ -17,3 +17,15 @@ This can be useful if the students are working on a project of their own. It may
 ### Mimo
 
 Mimo is a freemium learning platform that helps with reviewing the basics of html and JavaScript. It is like Duolingo for coding. Suggest that students make an account. It is also possible to require an account to be made and assign Mimo as homework. Many successful students have started out by going through all the levels of Front-End Development on Mimo.
+
+## Conferencing software
+
+### Google Meet
+
+It's a good idea to set up Host Controls in your meeting. This allows students to join without you having to admit them. It allows you to set a TA as a co-host, as well as a few other options. [how to](https://knowledge.workspace.google.com/kb/how-to-add-a-cohost-to-a-scheduled-meeting-000007209)
+
+Recorded videos will be uploaded to you Google Drive. To make them available to students, you must manually download them to your machine, and upload them to our YouTube account using YouTube Studio.
+
+### Big Blue Button
+
+Once students have settled in to the routine, switching to Big Blue Button gives you more options for breakout rooms (including self-selecting rooms), a whiteboard, automatic uploads of recordings to Moodle, as well as a few other teaching tools. To set up Big Blue Button, add the BigBlueButton Activity to the General section.
