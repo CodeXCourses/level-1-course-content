@@ -29,3 +29,9 @@ Recorded videos will be uploaded to you Google Drive. To make them available to 
 ### Big Blue Button
 
 Once students have settled in to the routine, switching to Big Blue Button gives you more options for breakout rooms (including self-selecting rooms), a whiteboard, automatic uploads of recordings to Moodle, as well as a few other teaching tools. To set up Big Blue Button, add the BigBlueButton Activity to the General section.
+
+#### Big Blue Button Tutorials
+
+* [Set up breakout rooms](https://www.youtube.com/watch?v=WZzvQiIS7mE)
+* [Overview for teachers](https://www.youtube.com/watch?v=EUeFmpkqtXc)
+* Note: for students to share in the large meeting, you must click on their name and "Give presenter" to them. An icon for screen sharing will appear on their screen.
