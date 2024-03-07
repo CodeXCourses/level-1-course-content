@@ -69,3 +69,11 @@ These are the commands you will need:
 
     git config --global user.name "My Name"
     git config --global user.email "myemail@gmail.com"
+
+## Workflow
+
+TODO: check on if/how to use `code .` to open code.
+
+There are a few ways to open a repo with VSCode. The easiest way is to click "Clone GitHub repo" on the startup page of VSCode. If you are logged in to GitHub in VSCode, it will list your repos. Click on a repo to clone it, and select a download location.
+
+Another way is to clone with the command line. Then you can use `code .` (TODO: check if `code .` works and how to set it up.) Or use Open Folder in VSCode.
