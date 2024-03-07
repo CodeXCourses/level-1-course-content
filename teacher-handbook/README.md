@@ -34,4 +34,4 @@ Once students have settled in to the routine, switching to Big Blue Button gives
 
 * [Set up breakout rooms](https://www.youtube.com/watch?v=WZzvQiIS7mE)
 * [Overview for teachers](https://www.youtube.com/watch?v=EUeFmpkqtXc)
-* Note: for students to share in the large meeting, you must click on their name and "Give presenter" to them. An icon for screen sharing will appear on their screen.
+* Note: for students to share in the large meeting, you must click on their name and "Give presenter" to them. An icon for screen sharing will appear on their screen. [Make presenter](https://www.youtube.com/watch?v=dx-ConbMEjc&t=11s)
