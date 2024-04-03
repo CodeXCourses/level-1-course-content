@@ -42,7 +42,7 @@ Next you will install Visual Studio code
 
 You should now just download and install VSCode from the VSCode website. It is about a 100MB download.
 
-https://code.visualstudio.com/Download
+[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 
 Chromebooks are Debian based, so you will need the .deb installer, not the Red Hat .rpm installer.
 
