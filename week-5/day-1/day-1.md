@@ -1,57 +1,55 @@
-# Week 5: Day 1 – Introduction to Git
+# JavaScript Fundamentals: Variables & Data Types
 
 ## Session Outline
 
-Focus: Introduction to Git and its fundamental concepts.
+Focus: Introduction to JavaScript, emphasizing variables, data types, and basic interactions.
 
 ## Objectives
 
-1. Understand the basics of source control and Git's role.
-2. Learn Git installation on various platforms.
-3. Explore basic Git operations and terminal commands.
+1. Understand the use of variables and data types in JavaScript.
+2. Learn how to interact with users through basic browser features.
+3. Gain practical experience through interactive code-along exercises.
 
 ## Key Concepts
 
-### 1. Understanding Git
+### 1. Introduction to JavaScript
 
-- Overview of source control and version management.
-- Introduction to Git as a distributed version control system.
-- Git's key features and prevalence in the developer community.
-- Practical demonstrations of Git operations.
+- Overview of JavaScript's role in web development.
+- Familiarization with developer tools for JavaScript coding.
 
-### 2. Installing Git
+### 2. Understanding Variables
 
-- Step-by-step instructions for installing Git on Windows, Mac, and Chromebooks.
-- Basic Git configuration: setting user name and email.
+- Importance of variables in JavaScript.
+- Differentiating `var`, `let`, and `const`.
+- Best practices for variable declaration.
 
-### 3. Basic Terminal Operations
+### 3. Data Types and Type Coercion
 
-- Fundamental terminal commands related to Git usage.
-- Commands for directory and file manipulation (`mkdir`, `touch`, `ls`, `pwd`, etc.).
-- Integrating terminal commands with basic Git operations (`git init`, `git status`, `git add`, `git commit`).
+- Exploring primitive data types: numbers, strings, booleans, `null`, `undefined`.
+- Demonstrating JavaScript's dynamic typing.
 
-### 4. Understanding Local vs. Remote Repositories
+### 4. Basic User Interaction
 
-- Differentiating between local and remote repositories.
-- The analogy of version control to traditional 'Save' and 'Undo' features.
-- The significance of local and remote repositories in collaboration and version control.
+- Techniques for user interaction: `alert`, `prompt`, `document.write`.
+- Practical examples of each method.
 
-### 5. Collaborative Assignment Using GitHub
+### 5. Working with Strings
 
-- Guided exercise: Making the first contribution on GitHub.
-- Steps include forking, cloning, branching, editing, staging, committing, pushing, and opening a pull request.
-- Emphasizing the collaborative nature and various aspects of contributing to open source.
+- String concatenation and usage of template literals.
+- Exploring string properties and methods.
 
 ## Interactive Elements
 
-- **Code-Along Segments**: Hands-on practice with Git installation and basic commands.
-- **Collaborative Assignments**: Group exercises on GitHub for practical experience.
+- **Code-Along Segments**: Participants will code alongside the instructor to reinforce learning.
+- **Debugging Exercises**: Use developer tools for hands-on debugging practice.
+- **Mini-Challenges**: Small tasks to apply the concepts learned.
 
 ## Wrap-Up
 
-- Recap of Git fundamentals and its importance in software development.
-- Q&A session to address any questions and reinforce learning.
+- Summary of key takeaways.
+- Preview of upcoming topics.
+- Q&A session to address any outstanding queries.
 
 ---
 
-**Note for Instructors**: Customize the depth and pace according to the students' experience levels. Prepare resources and visual aids to enhance understanding. Encourage active participation and peer-to-peer learning during exercises.
+**Note for Instructors**: Adjust the duration and depth of each section based on your schedule and the group's pace. Ensure to provide resources for further reading and practice.

@@ -1,74 +1,93 @@
-# Week 3: Day 1 – Introduction to Bootstrap and Basic Styling
+# Week 2: Day 1 - Introduction to CSS and Styling Basics
 
-Goal of this assignment is get you used to using Bootstrap and to get you thinking about how to use Bootstrap to style your projects. Ensure you are properly bringing in Bootstrap via instructions from the [documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/) or refer to your notes from class.
+The goal of this assignment is to expand off your HTML knowledge from last week and introduce you to how CSS interacts with HTML to produce styled web content.
 
 ## Instructions
 
 1. **Setup Environment**
 
    - Open **Visual Studio Code**.
-   - Create a new folder named `Bootstrap_Day1_Assignment` on your local machine.
+   - Create a new folder named `CSS_Day1_Assignment` on your local machine.
 
 2. **Create Files**
 
-    - Create a new file named `index.html` and a `styles.css`.
-    - We will be using the `index.html` file for the majority this assignment since we will be bringing in Bootstrap from a CDN.
-    - You can use the `styles.css` file to add any additional styling you would like to add to your page, but you will need to reference containers for bootstrap and how you can use CSS to style them. [containers](https://getbootstrap.com/docs/5.3/layout/containers/)
+   - Inside this folder, create 2 files: an HTML file named `index.html` and an html file named `table.html`.
 
-3. **index.html Structure**
+3. **Generating index.html structure**
 
-    - Experiment with the Bootstrap classes we learned about in class today.
-    - Try the different button classes and their variations, try updating the text within the buttons.
-    - Wrap these buttons in different containers and see how the containers affect the buttons when you introduce styling.
-    - Feel free to experiment with other Bootstrap classes as well. (We are going into grids, rows, columns and other concepts tomorrow...)
-    - You can mix in HTML elements with Bootstrap classes as well. For example, you can have a `<h1>` element with a Bootstrap class around it.
-    - Experiment, have some fun, this assignment is less technical and more about getting you used to using Bootstrap.
+    - Setup your `index.html` similar to how you have in previous assignments this week, feel free to experiment and do something new with what you have learned as well!
+    - Ensure you set up a nav bar to navigate between your 2 pages!
+    - You can utilize [w3schools](https://www.w3schools.com/tags/default.asp) as a way to look at different HTML elements and how they are used.
 
-4. **Submission**
+4. **Generating table.html structure**
 
-    - Zip the "Bootstrap_Day1_Assignment" folder.
+    - Setup your `table.html` with a simple nav bar to navigate back to the home page and a table element with at least 3 columns and 3 rows.
+    - This table will be styled in the next step.
+
+5. **CSS**
+
+      - We want you to practice using both the internal and inline styling methods in this assignment.  
+      - For your `index.html` file, use the inline styling method to style the background color, change font colors, alter font-families, font-weight, and font-size. Use the material you learned today. Try to style at least 3 different HTML elements on this page in different ways!
+      - For your `table.html` file, use the internal styling method to style your table and nav bar. Feel free to add more elements to this page, just make sure all styling is done in your internal stylesheet!
+
+6. **Submission**
+
+    - Zip the "CSS_Day1_Assignment" folder.
     - In the card with the label "Your work" click on the "+ Add or create."
     - Within that dropdown click file, and attach your zipped folder.
     - Click the submit button.
       **or**
-    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "Bootstrap_Day1_Assignment".
+    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "CSS_Day1_Assignment".
 
 ## Rubric
 
-# Day 1 Introduction to Bootstrap and Basic Styling - /20
+# Day 1 Introduction to CSS and Styling Basics - /20
 
 ### File Setup and Structure - /5
 
 - **Fully Achieved - 5 pts**
-  - The necessary files are created and correctly named `index.html`.
-  - All Bootstrap elements introduced during lecture (ie. buttons, containers, utility classes `p-*` and `m-*`.) are included and used appropriately.
+  - The necessary files are created and correctly named `index.html` and `table.html`.
+  - All essential HTML elements are included to enable proper navigation between the 2 files and structuring of content.
 
 - **Partially Achieved - 3 pts**
   - One or two of the required files are missing or improperly named.
-  - Attempt was made to use Bootstrap elements introduced during lecture.
+  - Attempt was made to create navigation between the 2 files.
 
 - **Not Achieved - 0 pts**
   - More than two of the required files are missing or improperly named.
-  - No attempt was made to use Bootstrap elements introduced during lecture.
+  - No attempt was made to create navigation between the 2 files.
 
-### Implementation of Bootstrap - /10
+### Implementation of CSS - /10
 
 - **Fully Achieved - 10 pts**
-  - Integrated the majority of the Bootstrap elements introduced during lecture appropriately.
+  - Integrated the majority of the CSS elements learned this week appropriately.
+  - Populated content to fill elements.
+  - Utilized both internal(table.html) and inline styling(index.html) methods.
 
 - **Partially Achieved - 5 pts**
-  - Attempt was made to use the majority of the Bootstrap elements introduced during lecture appropriately.
+  - Integrated some of the CSS elements learned this week appropriately.
+  - Populated content to fill elements.
+  - Utilized both internal(table.html) and inline styling(index.html) methods.
 
 - **Not Achieved - 0 pts**
-  - No attempt was made to use the Bootstrap elements introduced during lecture.
 
-### Content - /5
+  - No attempt was made to integrate the CSS elements learned this week appropriately.
+  - No attempt was made to populate content to fill elements.
+  - No attempt was made to utilize both internal(table.html) and inline styling(index.html) methods.
+
+### HTML Elements & Content - /5
 
 - **Fully Achieved - 5 pts**
-  - All content is relevant to the assignment and is appropriate for the assignment.
+  - Students utilized at least 3 different HTML elements on their `index.html` page.
+  - Students created minimum of a nav bar and table element on their `table.html` page.
+  - The content of the page(s) were filled out.
 
-- **Partially Achieved - 3 pts**  
-  - Some content is relevant to the assignment and is appropriate for the assignment.
+- **Partially Achieved - 3 pts**
+  - Students utilized at least 2 different HTML elements on their `index.html` page.
+  - Students created minimum of a nav bar and table element on their `table.html` page.
+  - The content of the page(s) were mostly filled out.
 
 - **Not Achieved - 0 pts**
-  - The content is not relevant to the assignment and is not appropriate for the assignment.
+  - Students utilized less than 2 different HTML elements on their `index.html` page.
+  - Students created less than a nav bar and table element on their `table.html` page.
+  - The content of the page(s) were not filled out.

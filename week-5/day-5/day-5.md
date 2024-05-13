@@ -1,49 +1,47 @@
-# Week 5: Day 5 – Consolidation and Deployment
+# Week 4: Day 5 – Review and Variable Hoisting in JavaScript
 
 ## Session Outline
 
-Focus: Summarizing the week's content, integrating concepts from local and remote repository management to deploying a project using GitHub Pages.
+Focus: Comprehensive review of key JavaScript concepts and exploration of variable hoisting.
 
 ## Objectives
 
-1. Review and consolidate knowledge of basic terminal commands and Git operations.
-2. Demonstrate the creation and linking of local and remote repositories.
-3. Apply ACP processes to enhance a project with HTML, CSS, or JavaScript.
+1. Reinforce understanding of variables, arrays, functions, and objects.
+2. Discuss the nuances of variable hoisting in JavaScript.
+3. Apply concepts through interactive coding and review exercises.
 
 ## Key Concepts
 
-### 1. Review of Local Repository Creation
+### 1. Review of Core JavaScript Elements
 
-- Recap of terminal commands: `mkdir`, `touch`, `ls`, `pwd`.
-- Review of Git basics: `git init`, `git status`, `git add`, `git commit`.
+- Recap of variables and primitive data types.
+- Revisiting array methods and functionality.
+- Overview of functions, their scope, and arrow functions.
+- Understanding objects, properties, and methods.
 
-### 2. Creating and Linking Repositories
+### 2. Deep Dive into Variable Hoisting
 
-- Step-by-step process for creating a local repository and a corresponding remote repository on GitHub.
-- Demonstrating how to link a local repository to a remote one, and vice versa.
+- Exploring the concept of variable hoisting.
+- Differences between `var`, `let`, and `const`.
 
-### 3. Enhancing the Project
+### 3. Advanced JavaScript Concepts
 
-- Revisiting the ACP process: Adding HTML, CSS, or JavaScript to the local site.
-- Hands-on practice with `git add`, `git commit`, and `git push`.
+- Template Literals and Expressions.
+- Default Function Parameters.
+- Destructuring Assignments.
+- Spread and Rest Operators.
 
-## Hands-On Exercise: Full Project Deployment
+## Interactive Elements
 
-- Students start with a local repository, add web content, and connect it to a remote repository on GitHub.
-- Implement ACP processes to update the project.
-- Deploy the project on GitHub Pages to enhance their online portfolio.
+- **Interactive Coding**: Engage in hands-on coding activities to reinforce learning.
+- **Review Challenges**: Solve problems that incorporate the week's learning.
 
-## Breakout Rooms: Collaborative Project Enhancement
+## Wrap-Up
 
-- Students work in groups to apply their week's learning on a shared project.
-- Focus on repository management, ACP, and deployment.
-
-## Conclusion
-
-- Summarizing key learnings from the entire week.
-- Open forum for Q&A, discussing challenges, and sharing project outcomes.
-- Encouragement for continued practice and exploration beyond the classroom.
+- Summary of the session's key points.
+- Open Q&A session.
+- Guidance for further study and practice.
 
 ---
 
-**Note for Instructors**: This session is crucial for reinforcing the week's learnings. Ensure that each student is comfortable with the entire workflow from local development to deployment. Encourage experimentation with web content and GitHub Pages deployment.
+**Note for Instructors**: Adjust the duration and depth of each section according to the group's pace and learning needs. Prepare additional exercises and resources for extended exploration.

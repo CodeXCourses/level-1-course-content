@@ -1,50 +1,65 @@
-# Week 3: Day 2 – Exploring Bootstrap's Grid System and Key Components
+# Week 2: Day 2 – Expanding CSS Knowledge: Fonts, Borders, and the Box Model
 
-## Format:(2 hours)
+## Format: Morning (2 hours)
 
-**Purpose:** Dive deeper into the grid system, which is fundamental to Bootstrap's layout capabilities, and explore some of the framework's key components.
-
----
-
-## Hour 1: Deep Dive into the Grid System
-
-### Bootstrap Grid Basics (20 minutes):
-
-- Discuss the 12-column grid system and its role in responsive web design.
-- Introduce basic classes: `row`, `col`, `col-md-*`, etc.
-- Discuss how columns automatically adjust based on the number of sibling columns.
-
-### Responsive Grid Layouts (20 minutes):
-
-- Explain the mobile-first design philosophy of Bootstrap.
-- Demonstrate how to use classes like `col-sm`, `col-md`, `col-lg`, etc., to create responsive layouts.
-- Showcase how columns can be reordered or offset for more complex designs.
-
-### Interactive Session (20 minutes):
-
-- Students practice creating various grid layouts, from simple two-column designs to more complex, multi-tiered layouts.
-- Challenge: Create a responsive layout that adjusts based on different device screen sizes.
+**Purpose:** Enhance understanding of CSS by exploring font styling, advanced border properties, and a deeper dive into the box model.
 
 ---
 
-## Hour 2: Introducing Bootstrap Components
+## Hour 1: Text Styling and Font Control
 
-### Alerts and Badges (15 minutes):
+### Linking an External Stylesheet and Introduction to CSS Reset (10 minutes):
 
-- Demonstrate how to use Bootstrap's `alert` component to display feedback messages.
-- Introduce the `badge` component for small counters or labels.
+- Demonstrate how to link an external stylesheet to an HTML document.
+- Show where to find and how to include a `reset.css` file to normalize browser styles.
+- Explain the benefits of using an external stylesheet for maintainability and performance.
+  
+### Text Styling Basics (10 minutes):
 
-### Navigation Systems (20 minutes):
+- Discuss properties like `font-size`, `font-weight`, `font-family`, `text-align`, and `line-height`.
+- Demonstrate how these properties impact the text's appearance.
 
-- Dive into the `nav` component, discussing its flexibility for creating navigation bars, tabs, and pills.
-- Showcase vertical and horizontal navigation variants.
+### Custom Fonts and Web Typography (10 minutes):
+
+- Introduce web-safe fonts and custom fonts.
+- Show how to import and use fonts from sources like Google Fonts.
+
 
 ### Interactive Session (20 minutes):
 
-- Students incorporate alerts, badges, and navigation systems into their ongoing projects.
-- Task: Create a responsive navigation bar that collapses into a dropdown on smaller screens.
+- Students experiment with different font styles, custom fonts, and external stylesheets on their HTML content.
+- Task: Create a visually pleasing block of text using the properties discussed, incorporating a custom font, and utilizing an external stylesheet.
+
+---
+
+## Hour 2: Delving Deeper into the Box Model & Interactive Styles
+
+### Advanced Box Model (20 minutes):
+
+- Discuss the concepts of `width`, `height`, and how padding, margin, and borders impact the overall dimensions.
+- Introduce properties like `box-sizing` and its significance.
+
+### Borders and Styling (15 minutes):
+
+- Dive deeper into border styles, widths, and colors.
+- Explore properties like `border-radius` for rounded corners.
+
+### Hover States and Interactivity (10 minutes):
+
+- Introduce the `:hover` pseudo-class.
+- Demonstrate how to change element styles based on mouse hover-state.
+
+### Interactive Session (10 minutes):
+
+- Students practice implementing borders and hover effects on various elements.
+- Prompt: Create a button-like element with a hover effect.
+
+### Browser Styles and Resetting (5 minutes):
+
+- Briefly touch upon the browser's built-in styles.
+- Discuss the idea of CSS resets or normalizers to ensure consistent styling.
 
 ### Wrap-Up (5 minutes):
 
-- Recap the day's exploration of Bootstrap's grid system and component introduction.
-- Preview Day 3's content: Continuing with more Bootstrap components (Spinners, List Groups, Cards) and practical application exercises.
+- Summarize the day's learning.
+- Preview Day 3's content: Advanced selectors, understanding positioning, and introduction to layout techniques.

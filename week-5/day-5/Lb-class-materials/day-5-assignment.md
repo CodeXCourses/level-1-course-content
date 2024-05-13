@@ -1,88 +1,117 @@
-# Week 5: Day 5 Assignment - Full Project Deployment
+# Week 4: Day 5 – Consolidation and Recap of JavaScript Fundamentals
 
-## Objective
-
-Apply the week's learnings to create, enhance, and deploy a full project on GitHub Pages, using local and remote repository management along with web content enhancement.
+This assignment will test your understanding of variables, functions, objects, and arrays. You'll be working with data and applying various operations.
 
 ## Instructions
 
-This assignment involves creating a full project, enhancing it with HTML, CSS, or JavaScript, and deploying it on GitHub Pages.
+1. **Setup Environment**
+      - Open your code editor (e.g., Visual Studio Code).
+      - Create a new folder called JS_Review_Assignment on your local machine.
 
-### Part 1: Create and Enhance a Local Repository
+2. **Create Files**
+      - Inside the JS_Fundamentals_Assignment folder, create two files:`scripts.js` and `index.html`.
+      - Note that we won't be working with the HTML DOM in this assignment.
 
-- **Create a New Local Repository**:
+3. **JavaScript Tasks**
 
-  - Create a new directory on your local machine for your project (e.g., `MyFullProject`).
-  - Initialize a Git repository in this directory.
+- In the scripts.js file, perform the following tasks:
 
-- **Add Web Content**:
+  - **Variables**:
+    - Create a variable called firstName and assign your name as a string.
+    - Create a variable called age and assign your age as a number.
+    - Create a variable called isStudent and assign it a boolean value (true or false).
+    - Generate a console log that concatenates your firstName, age, and isStudent variables into a string. For example your output should look similar to: "My name is John, I am 30 years old, and my student status is true."
 
-  - Create an `index.html` file with a basic web page structure.
-  - Optionally, add CSS or JavaScript files to enhance your web page.
-  - Add and commit your changes to your local repository.
+  - **Objects**:
+    - Create an object named person with properties for firstName, age, and isStudent. Use the variables you defined earlier to populate the object's values.
+    - Console log your object to ensure it has the correct properties and values.
 
-### Part 2: Link and Push to a Remote Repository
+  - **Arrays**:
+    - Create an array called fruits with at least three different fruit names.
+    - Use an array method to add a new fruit to the beginning of the array.
+    - Use an array method to remove the last fruit from the array.
+    - Use an array method to remove an item at the front of the array.
+    - Console log after each method is utilized with some text so you can see what is occurring at each method call.
 
-- **Create a Remote Repository on GitHub**:
+  - **Functions**:
+    - Create a function named calculatePerimeter that calculates and returns the perimeter of a rectangle. The function should take two parameters, length and width. **if you are unsure of how to find the perimeter of a rectangle, google it!**
+    - Create a function named reverseArray that takes an array as a parameter and returns a new array with the elements reversed. You can use built-in methods or create your own logic. **Check the MDN documentation on how to reverse an array, if needed.**
 
-  - Create a new repository on GitHub named `MyFullProject`.
-  - Do not initialize it with a `README.md`, `.gitignore`, or `license`.
 
-- **Link Your Local Repository to GitHub**:
+4. **Console Logs**
+      - Log the results of your functions and the content of your objects and arrays to the console. For example:
 
-  - Use the `git remote add origin [remote repository URL]` command to link your local repository to GitHub.
-  - Push your local changes to the remote repository with `git push -u origin main`.
+    ```javascript
 
-### Part 3: Deploy on GitHub Pages
+    console.log("Name: ", name);
+    // ... more console logs ...
+    ```
 
-- **Enable GitHub Pages**:
+5. **Submission**
+      - Zip the "JS_Review_Assignment" folder.
+        In the card with the label "Your work," click on the "+ Add or create."
+      - Within that dropdown, click "File," and attach your zipped folder.
+      - Click the submit button.
 
-  - In your GitHub repository settings, enable GitHub Pages.
-  - Set the source to the `main` branch.
+# Rubric
 
-- **Verify Your Deployment**:
+## JavaScript Review - /20
 
-  - Ensure that your web content is correctly displayed on the GitHub Pages site.
-  - Visit your GitHub Pages URL to confirm the deployment.
+- **Variables - /5**
 
-## Submission
+  - **Fully Achieved - 5 pts**
+    - Variables are correctly created and values assigned.
+    - Console log is generated with the correct string concatenation combining ALL created variables of name, age, student status(boolean).
 
-- **Submit Your Work**:
-  - Your GitHub repository should contain your web content and be deployed on GitHub Pages.
-  - Submit the link to your GitHub repository and your GitHub Pages site in the "Your work" card.
+  - **Partially Achieved - 3 pts**
+    - One or two variables are correctly created and assigned values.
+    - Attempt was made to generate a console log with the correct string concatenation.
 
-## Rubric
+  - **Not Achieved - 0 pts**
+    - More than two variables are missing or incorrectly created/assigned.
+    - No attempt was made to generate a console log with the correct string concatenation.
 
-### Full Project Creation and Deployment - /20 Points
+- **Objects - /5**
 
-#### 1. Repository Setup and Content Enhancement - /10 Points
+  - **Fully Achieved - 5 pts**
+    - The object is correctly created and populated with properties.
+    - Utilized variables created to populate the values within the object.
+    - Console log is generated to ensure the object is correctly created.
 
-- **Fully Achieved (10 pts)**
+  - **Partially Achieved - 3 pts**
+    - The object is correctly created but lacks some properties.
+    - Did not utilize variables created to populate the values within the object.
+    - Attempted to console log values.
 
-  - Created a new local directory and initialized a Git repository.
-  - Added a well-structured `index.html` file, optionally enhanced with CSS/JavaScript.
-  - Committed all changes to the local repository.
-  - Created a corresponding remote repository on GitHub named MyFullProject without initial files.
-  - Successfully linked local repository to GitHub and pushed all changes.
+  - **Not Achieved - 0 pts**
+    - The object is missing or incorrectly created.
+    - No values were populated for the object and no console log is present.
 
-- **Partially Achieved (5 pts)**
+- **Arrays - /5**
 
-  - Missed certain steps in local and remote repository setup or content enhancement.
-  - The project is created but lacks completeness or proper structure in the repository setup or web content enhancement.
+  - **Fully Achieved - 5 pts**
+    - The array is correctly created and manipulated using array methods.
+    - Utilized array methods to add/remove items from the array.
+    - Console log is generated after each method is utilized.
 
-- **Not Achieved (0 pts)**
-  - Did not create a local and remote repository as instructed or failed to enhance web content.
+  - **Partially Achieved - 3 pts**
+    - The array is correctly created but lacks some manipulation with array methods.
+    - Attempted to utilize array methods to add/remove items from the array.
+    - Attempted to generate a console log after each method is utilized.
 
-#### 2. Deployment and Accessibility on GitHub Pages - /10 Points
+  - **Not Achieved - 0 pts**
+    - The array is missing or incorrectly created/managed.
+    - No methods were attempted with any console logs.
 
-- **Fully Achieved (10 pts)**
+- **Functions - /5**
 
-  - Enabled GitHub Pages in repository settings with the correct source branch.
-  - Web content, including any enhancements, is correctly displayed and accessible on GitHub Pages.
+  - **Fully Achieved - 5 pts**
+    - Functions are correctly created and perform their tasks.
+    - Required to create a calculatePerimeter function that takes two parameters and returns the perimeter of a rectangle.
+    - Required to create a reverseArray function that takes an array as a parameter and returns a new array with the elements reversed.
 
-- **Partially Achieved (5 pts)**
+  - **Partially Achieved - 3 pts**
+    - One or two functions are correctly created and perform their tasks.
 
-  - GitHub Pages enabled, but with issues in deployment, content display, or accessibility.
-
-- **Not Achieved (0 pts)**
-  - Did not enable GitHub Pages, or the site is not correctly deployed and accessible.
+  - **Not Achieved - 0 pts**
+    - More than two functions are missing or incorrectly created/implemented.

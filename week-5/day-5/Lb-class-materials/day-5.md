@@ -1,91 +1,58 @@
-# Week 5: Day 5 – Consolidation and Deployment
+# Week 4: Day 5 – Comprehensive Review and Variable Hoisting in JavaScript
 
-## Session Outline
+## Overview
 
-Focus: Summarizing the week's content, integrating concepts from local and remote repository management to deploying a project using GitHub Pages.
+In today's session, we'll consolidate our knowledge from the previous four days, focusing on variables, arrays, functions, objects, and how they interact. We will also discuss the peculiarities of `var` and variable hoisting.
 
-## Objectives
+- **6:30 PM to 8:30 PM**: Lecture and interactive coding (includes a 10-minute break)
+- **8:30 PM**: Closing remarks and Q&A
 
-1. Review and consolidate knowledge of basic terminal commands and Git operations.
-2. Demonstrate the creation and linking of local and remote repositories.
-3. Apply ACP processes to enhance a project with HTML, CSS, or JavaScript.
+## Detailed Schedule
 
-## Key Concepts
+### 6:30 PM - 7:30 PM: Review and Interactive Coding
 
-### 1. Review of Local Repository Creation
+**Recap of Variables and Primitive Data Types (20 minutes):**
 
-- Recap of terminal commands: `mkdir`, `touch`, `ls`, `pwd`.
-- Review of Git basics: `git init`, `git status`, `git add`, `git commit`.
+- Review variables, the different data types, and the use of `alert`, `prompt`, and `document.write`.
 
-```bash
-# Create a new directory and initialize a Git repository
+**Arrays and their Methods (20 minutes):**
 
-mkdir NewProject
-cd NewProject
-git init
+- Revisit array manipulation methods such as `.push()`, `.pop()`, and `.join()`.
 
-# Create a new file and check its status
+**Functions and Scope (20 minutes):**
 
-touch index.html
-git status
+- Discuss the role of functions, the use of arrow functions, and function scope.
 
-# Add and commit the file
+**Objects and their Power (10 minutes):**
 
-git add index.html
-git commit -m "Initial commit with index.html"
-```
+- Review the creation and manipulation of objects, including properties and methods.
 
-### 2. Creating and Linking Repositories
+### 7:30 PM - 7:40 PM: Break (10 minutes)
 
-- Step-by-step process for creating a local repository and a corresponding remote repository on GitHub.
-- Demonstrating how to link a local repository to a remote one, and vice versa.
+Give students a short break to refresh before diving into the second half of the session.
 
-```bash
-# Create a new repository on GitHub via the GitHub website
+### 7:40 PM - 8:30 PM: Deep Dive into Variable Hoisting and Advanced Concepts
 
-# Link the local repository to the remote repository
+**Variable Hoisting with `var` (10 minutes):**
 
-git remote add origin [remote repository URL]
+- Explain variable hoisting and demonstrate with examples why `let` and `const` are preferable.
 
-# Verify the new remote
+**Advanced Concepts (40 minutes):**
 
-git remote -v
-```
+- Introduce and code examples on the following topics:
+  - Template Literals and Expressions
+  - Default Function Parameters
+  - Destructuring Assignments
+  - Spread and Rest Operators
 
-### 3. Enhancing the Project
+### 8:30 PM: Closing Remarks and Q&A
 
-- Revisiting the ACP process: Adding HTML, CSS, or JavaScript to the local site.
-- Hands-on practice with `git add`, `git commit`, and `git push`.
-
-```bash
-# Edit the index.html file in VS Code and add basic HTML structure
-
-# Add and commit the changes
-
-git add index.html
-git commit -m "Update index.html with basic HTML structure"
-
-# Push the changes to the remote repository
-
-git push origin main
-```
-
-## Hands-On Exercise: Full Project Deployment
-
-- Students start with a local repository, add web content, and connect it to a remote repository on GitHub.
-- Implement ACP processes to update the project.
-
-## Breakout Rooms: Collaborative Project Enhancement
-
-- Students work in groups to apply their week's learning on a shared project.
-- Focus on repository management, ACP, and deployment.
+- Summarize key takeaways from today's session.
+- Address any remaining questions and provide guidance for further study.
 
 ## Conclusion
 
-- Summarizing key learnings from the entire week.
-- Open forum for Q&A, discussing challenges, and sharing project outcomes.
-- Encouragement for continued practice and exploration beyond the classroom.
+- Recap the importance of each concept covered and how they fit into everyday coding tasks.
+- Encourage the practice of newly learned skills with additional exercises and projects.
 
----
-
-**Note for Instructors**: This session is crucial for reinforcing the week's learnings. Ensure that each student is comfortable with the entire workflow from local development to deployment.
+**Note:** Students should have their development environments ready for the interactive coding session. The code written today will be an essential reference for future learning and practice.

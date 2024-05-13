@@ -1,80 +1,88 @@
-# Week 5: Day 2 - Deep Dive into Git: Cloning, Committing, and Syncing Changes
+# Week 4: Day 2 – Exploring Arrays and Their Fundamental Operations
 
-The goal of this assignment is to reinforce understanding of cloning, committing, and syncing changes in Git.
+Arrays are an extremely powerful data structure in JavaScript. Today you learned about the fundamentals of arrays and how to use them. Now it's time to put your knowledge to the test. Understanding how to utilize arrays and their methods will be crucial to your success as a developer.
 
 ## Instructions
 
-After an insightful class about the Git commit cycle and synchronization, it's time to put your knowledge into practice and prepare for the next class session.
-Git Cheat Sheet https://dev.to/vishnuchilamakuru/git-cheatsheet-1oaj
+1. **Setup Environment**
 
-Part 1: Commit Cycle Mastery
+    - Open **Visual Studio Code**.
+    - Create a new folder named `JS_Arrays_Assignment` on your local machine.
 
-    Staging Changes: Take a file from your previously forked and cloned repository, make a modification to it, and stage this change (you created a reflections.md yesterday, so lets add on to that). Maybe add a good resource you have found while learning Git.
+2. **Create Files**
 
-    Writing Meaningful Commit Messages: Write a meaningful commit message that describes the change you made. Remember, a good commit message is concise and informative, helping your future self and collaborators understand the change.
+    - Create a new file named `arrays.js` and `index.html`.
+    - Note that VScode will automatically detect file types based on their extension such as `.html` or `.js`.
+    - VScode will automatically color code your JavaScript file to make it easier to read.
 
-    Commit Your Change: Commit the change with your meaningful message.
+3. **index.html**
 
-Part 2: Synchronization Challenge
+    - Generate a generic HTML page, you are not required to bring in any elements.
+    - JavaScript runs in the browser, so we need to link our JavaScript file to our HTML file.
+    - Ensure you connect your `arrays.js` file to your `index.html` file. (use a script tag like this `<script src="arrays.js"></script>`)
+    - **You will be utilizing your dev tools to see your console logs you create below! (hint: right click on your page and click inspect, then click on the console tab in case you need a refresher!)**
 
-    Push Your Commit: Push the committed change from your local repository to your remote forked repository on GitHub.
+4. **arrays.js**
 
-    Remote Change: After you've pushed your change, generate a simple text file in the REMOTE repository on GitHub, and name it synchronization.txt.
+    - You will be creating 3 arrays to hold data for any type of information you want.
+    - 1 array will be an array of strings.
+    - 1 array will be an array of numbers.
+    - 1 array will be an array of mixed data types.
+    - You will need to console log the values of your areas just as you saw in lecture today along with implementing the methods you learned to see how you can manipulate the data in your arrays.
+    - Ensure you utilize the `push()`, `pop()`, `shift()`, and `unshift()` methods along with the `length` property.
+    - **Console log the values of your arrays after you have manipulated them to see how they have changed at each stage.**
+    - Ex:
+    `console.log(myArray);`
+    `console.log(myArray.length);`
+    `console.log(myArray.push('new value'));`
+    `console.log(myArray);`
 
-    Pull the Remote Change: Use Git to pull the change you made on our remote repository to your local repository. Make sure the new file appears in your local repository.
+5. **Submission**
 
-## **To show you have properly pulled down your synchronization.txt take a screenshot of your local files after pulling down your remote repository and put the screenshot into your file structure BEFORE you do your final push for submission.**
+    - Zip the "JS_Arrays_Assignment" folder.
+    - In the card with the label "Your work" click on the "+ Add or create."
+    - Within that dropdown click file, and attach your zipped folder.
+    - Click the submit button.
+      **or**
+    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "JS_Arrays_Assignment".
 
-Part 3: Reflect and Share
+## Rubric
 
-Write a brief reflection on your experience with the commit cycle and synchronization inside your synchronization.txt. Include any challenges you encountered and how you resolved them. Also, describe any insights gained from the collaborative aspects of Git synchronization.
+# Day 2 Exploring Arrays and Their Fundamental Operations - /20
 
-Submission:
+### File Setup and Structure - /5
 
-Submit your assignment by pushing the committed changes and your reflection to your forked repository on GitHub. Ensure that your changes are clearly visible in your repository, and your reflect and share answer is in a text file (e.g., synchronization.txt) and your screenshot is present.
+- **Fully Achieved - 5 pts**
+  - The necessary files are created and correctly named `index.html` and `arrays.js`.
+  - The `arrays.js` file is properly linked to the `index.html` file.
 
-After checking to ensure your files were properly pushed to your forked repository, submit the link to your forked repository in the card with the label "Your work", and click on the "+ Add or create" button. Within that dropdown, click "Link," and attach your link. Click the submit button.
-
-In the next class (Day 3), we will discuss any challenges faced during the synchronization process and dive deeper into collaboration using Git. Be ready to share your experiences!
-
-# Rubric
-
-## Day 2 Deep Dive into Git: Cloning, Committing, and Syncing Changes - /20
-
-### Commit Cycle Mastery - /10
-
-- **Fully Achieved - 10 pts**
-
-  - The student successfully staged their changes.
-  - The student successfully wrote a **meaningful** commit message.
-  - The student successfully committed their changes.
-
-- **Partially Achieved - 5 pts**
-
-  - The student successfully staged their changes.
-  - The student attempted to write a **meaningful** commit message.
-  - The student did not successfully commit their changes.
-
-- **Not Achieved - 0 pts**
-  - The student did not successfully stage their changes.
-  - The student did not successfully write a **meaningful** commit message.
-  - The student did not successfully commit their changes.
-
-### Synchronization Challenge - /10
-
-- **Fully Achieved - 10 pts**
-
-  - The student successfully pushed their committed changes to their remote repository.
-  - The student successfully created a synchronization.txt file and pulled the remote change to their local repository.
-  - Screenshot was included to show local files with the synchronization.txt file.
-
-- **Partially Achieved - 5 pts**
-
-  - The student successfully pushed their committed changes to their remote repository.
-  - The student successfully created a synchronization.txt file but **did not** successfully pull the remote change to their local repository.
-  - Screenshot was included to show local files with the synchronization.txt file.
+- **Partially Achieved - 3 pts**
+  - One or two of the required files are missing or improperly named.
+  - The `arrays.js` file is not properly linked to the `index.html` file.
 
 - **Not Achieved - 0 pts**
-  - The student **did not** successfully push their committed changes to their remote repository.
-  - The student **did not** successfully create a synchronization.txt file and **did not** successfully pull the remote change to their local repository.
-  - Screenshot was **not** included to show local files with the synchronization.txt file.
+  - More than two of the required files are missing or improperly named.
+  - The `arrays.js` file is not properly linked to the `index.html` file.
+
+### Implementation of Arrays - /15
+
+- **Fully Achieved - 15 pts**
+  - Arrays are created and named appropriately.
+  - Arrays are assigned the correct data type differences. 1 of strings, 1 of numbers, 1 of mixed data.
+  - Arrays are console logged to the console before and after method/property usage.
+  - The `push()`, `pop()`, `shift()`, and `unshift()` methods are used appropriately.
+  - The `length` property is used appropriately.
+
+- **Partially Achieved - 10 pts**
+  - Arrays are created and named appropriately.
+  - Arrays have some of assigned the correct data type differences. 1 of strings, 1 of numbers, 1 of mixed data.
+  - Arrays are console logged to the console before and after method/property usage.
+  - The `push()`, `pop()`, `shift()`, and `unshift()` methods are used appropriately.
+  - The `length` property is used appropriately.
+
+- **Not Achieved - 0 pts**
+  - Arrays are not created and named appropriately.
+  - Arrays have not been assigned the correct data type differences. 1 of strings, 1 of numbers, 1 of mixed data.
+  - Arrays are not console logged to the console before and after method/property usage.
+  - The `push()`, `pop()`, `shift()`, and `unshift()` methods are not used appropriately.
+  - The `length` property is not used appropriately.

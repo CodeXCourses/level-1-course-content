@@ -1,52 +1,55 @@
-# Week 3: Day 4 – Advanced Bootstrap Topics, Customization, and Utilities
+# Week 2: Day 4 – Mastering Flexbox, Introduction to CSS Grid, and Responsive Design Basics
 
 ## Format: Morning (2 hours)
 
-**Purpose:** Dive into Bootstrap's advanced utilities, explore customization options, and enable students to create unique and personalized designs.
+**Purpose:** Solidify understanding of Flexbox, introduce another powerful layout tool (CSS Grid), and lay the foundation for responsive web design.
 
 ---
 
-## Hour 1: Advanced Utilities and Customization
+## Hour 1: Deep Dive into Flexbox and Intro to CSS Grid
 
-### Bootstrap's Utility Classes (20 minutes):
+### Advanced Flexbox Techniques (20 minutes):
 
-- Introduce utility classes for common CSS property-value pairs.
-- Discuss utilities for spacing, borders, visibility (like `d-none`), and screen reader content.
+- Revisit and reinforce Flexbox properties.
+- Discuss advanced properties like `flex-wrap`, `flex-grow`, `flex-shrink`, and `flex-basis`.
+- Showcase practical use-cases, such as creating complex layouts with nested flex containers.
 
-### Customizing Bootstrap (20 minutes):
+### Introduction to CSS Grid (25 minutes):
 
-- Explore the customization options Bootstrap offers, from variables to build tools.
-- Discuss the importance of theme customization for brand consistency.
+- Introduce Grid as a two-dimensional layout technique.
+- Highlight primary concepts: grid container vs. grid items, grid lines, tracks, and cells.
+- Demonstrate basic properties: `display: grid`, `grid-template-columns`, `grid-template-rows`, and `grid-gap`.
 
-### Responsive Utilities and Display (15 minutes):
+### Interactive Session (15 minutes):
 
-- Dive deeper into utilities that aid in responsive design.
-- Showcase classes that adjust display, margin, padding, and more based on breakpoints.
-
-### Interactive Session (5 minutes):
-
-- Students experiment with the utility classes, applying them to enhance responsiveness and refine designs in their projects.
+- Students transition their Flexbox-based navigation bar into a Grid-based layout.
+- Encourage experimenting with both layout techniques to understand the strengths of each.
 
 ---
 
-## Hour 2: Practical Applications and Project Enhancements
+## Hour 2: Laying Foundations for Responsive Design
 
-### Component Customization (15 minutes):
+### What is Responsive Design? (10 minutes):
 
-- Demonstrate how to further customize components, like Navbars or Modals, beyond default styles.
-- Highlight the balance between customization and maintaining framework consistency.
+- Explain the philosophy behind responsive design.
+- Discuss the importance in the context of diverse device sizes and screen resolutions.
 
-### Hands-on Project Work (30 minutes):
+### Media Queries and Breakpoints (20 minutes):
 
-- Students focus on refining their projects, utilizing the advanced topics and customization techniques learned.
-- Encourage peer reviews: students pair up, evaluate each other's projects, and provide feedback.
+- Introduce the concept of media queries.
+- Demonstrate how to implement basic responsive styles using breakpoints.
 
-### Group Feedback and Showcase (10 minutes):
+### Viewport and Relative Units (15 minutes):
 
-- Several students showcase their refined projects, discussing any advanced customizations they've implemented.
-- Provide constructive feedback, emphasizing the effective use of Bootstrap's advanced utilities and customization.
+- Discuss the `<meta>` viewport tag and its significance in responsive design.
+- Introduce relative units like `em`, `rem`, `vw`, and `vh`, and explain their advantages over fixed units.
+
+### Interactive Session (10 minutes):
+
+- Students add media queries to their projects, ensuring that their navigation bars adapt to different screen sizes.
+- Experiment with using relative units for font sizes and layout dimensions.
 
 ### Wrap-Up (5 minutes):
 
-- Summarize the day's exploration of advanced Bootstrap topics and emphasize the power of personalization while working within a framework.
-- Preview Day 5's content: Project finalization, Bootstrap best practices, and looking forward to integrating Bootstrap with JavaScript for dynamic content.
+- Summarize the day's deep dive into layout techniques and the foundation of responsive design.
+- Preview Day 5's content: Finalizing CSS badge requirements, advanced responsive techniques, and a project to bring everything together.

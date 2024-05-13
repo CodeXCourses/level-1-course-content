@@ -1,55 +1,62 @@
-# Week 7: Day 3 – Building Responsive Sites with Bootstrap 5
+# Week 3: Day 3 – Diving Deeper into Bootstrap Components and Practical Applications
 
-## Session Outline
+## Format: Morning (2 hours)
 
-Focus: Exploring Bootstrap 5 to create responsive websites efficiently, including the use of a Bootswatch theme for enhanced styling.
-
-## Objectives
-
-1. Understand the basics of Bootstrap 5 and its role in responsive design.
-2. Learn how to integrate a Bootswatch theme into a Bootstrap project.
-3. Develop a responsive website using Bootstrap's grid system and components.
-
-## Announcements
-
-- **Capstone Project**: Consider how Bootstrap can be utilized in your capstone project for efficient layout and design.
-- **Hands-On Learning**: Today's session is highly practical, focused on building a responsive site with Bootstrap.
-
-## Key Concepts
-
-### 1. Introduction to Bootstrap 5
-
-- Overview of Bootstrap as a powerful front-end framework.
-- Understanding the Bootstrap grid system for responsive layouts.
-- Basic setup: How to include Bootstrap in your web project.
-
-### 2. Integrating Bootswatch Themes
-
-- Selecting and applying a Bootswatch theme to customize Bootstrap's default styling.
-- Steps to integrate a Bootswatch theme into a Bootstrap project.
-
-### 3. Building with Bootstrap Components
-
-- Exploring key Bootstrap components: Navbars, Cards, Modals, Forms, and more.
-- Practical application: Creating a sample web page using various Bootstrap components.
-
-### 4. Responsive Design Practices
-
-- Best practices for creating mobile-first, responsive designs with Bootstrap.
-- Utilizing Bootstrap's responsive utilities and classes for optimal layout and styling.
-
-## Interactive Elements
-
-- **Code-Along Activity**: Building a responsive website using Bootstrap and a Bootswatch theme.
-- **Component Exploration**: Hands-on exercises to experiment with different Bootstrap components.
-- **Design Challenges**: Group tasks to create specific sections or features of a web page using Bootstrap.
-
-## Wrap-Up
-
-- Recap of Bootstrap 5 functionalities and the advantages of using pre-designed themes.
-- Discussion on incorporating Bootstrap into the capstone project for efficient responsive design.
-- Open Q&A session for clarifications and creative ideas exchange.
+**Purpose:** Deepen understanding of Bootstrap by introducing more components and emphasizing practical integration into web projects.
 
 ---
 
-**Note for Instructors**: Encourage experimentation with Bootstrap components and themes. Assist students in understanding how Bootstrap can simplify responsive web design. Provide tips for customizing Bootstrap components to fit specific design needs.
+## Hour 1: Exploring More Bootstrap Components
+
+### Breadcrumbs (15 minutes):
+
+- Introduce Bootstrap's `breadcrumb` component, explaining its role in enhancing navigation and user experience.
+- Demonstrate how to implement a breadcrumb trail and discuss best practices.
+
+### Pagination (15 minutes):
+
+- Explore the `pagination` component for navigating through large datasets or lists.
+- Showcase different styles, sizes, and configurations, emphasizing usability.
+
+### Tooltips and Popovers (25 minutes):
+
+- Introduce `tooltips` and `popovers` for providing additional information and context to users.
+- Show how to implement them, discuss when to use each, and highlight the importance of accessibility.
+
+### Interactive Session (5 minutes):
+
+- Students experiment with implementing breadcrumbs, pagination, tooltips, and popovers in their projects.
+- Prompt: Enhance a list or data-heavy section of your project using pagination and provide additional context using tooltips or popovers.
+
+---
+
+## Hour 2: Integrating Components and Refining Design
+
+### Creating a Featured Section with Cards and Grid System (20 minutes):
+
+- Introduce the concept of Cards in Bootstrap as a flexible and extensible content container.
+- Explain that Cards support a wide variety of content, including text, images, links, and more.
+- Highlight that the Bootstrap Grid system allows you to create responsive layouts, making your card-based design adapt seamlessly to different screen sizes.
+- Showcase how to combine Cards and the Grid system to create a featured content section on your website.
+- Provide an example of how to structure the HTML to implement a grid of cards, paying attention to the use of classes such as `row`, `col-md-4`, and `card`.
+- Discuss best practices for creating visually appealing and user-friendly card layouts.
+- Encourage students to experiment with different types of content inside the cards, such as images, text, buttons, and links.
+- Highlight the importance of consistency in card design to provide a cohesive user experience.
+
+
+### Hands-on Project Work (30 minutes):
+
+- Continue integrating and experimenting with Bootstrap components in practical scenarios.
+- Encourage collaboration and experimentation, fostering a creative learning environment.
+
+### Group Feedback and Showcase (5 minutes):
+
+- Facilitate a session where students can share their progress, discuss challenges, and receive feedback.
+- Highlight unique implementations and creative solutions, fostering a supportive learning community.
+
+### Wrap-Up (5 minutes):
+
+- Recap the importance of navigation, user feedback, and featured content in web design.
+- Preview Day 4, setting the stage for diving into advanced Bootstrap topics and customization.
+
+---

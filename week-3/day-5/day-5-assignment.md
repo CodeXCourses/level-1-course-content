@@ -1,87 +1,84 @@
-# Week 3: Day 5 – Project Finalization, Best Practices, and Beyond
+# Week 2: Day 5 – Finalizing CSS Concepts, "CSS Diner" Review, and Integrative Project
 
-This assignment will be the creation of a new site idea like we have previously done with the products page. This time you will be creating a site that is unique to you and your interests. This site can be anything you want it to be. Utilize [unsplash.com](https://unsplash.com/) for images if you need them. Some ideas you could create are: a writer's blog, a personal site, a recipe sharing site, a travel blog, or anything else you want.
+You made it to the end of week 2! This assignment will test your knowledge of all the CSS concepts you have learned this week. You will be creating a webpage that will be styled using the CSS properties you have learned this week. You will also be using the HTML elements you have learned to structure your page.
 
 ## Instructions
 
 1. **Setup Environment**
 
    - Open **Visual Studio Code**.
-   - Create a new folder named `Bootstrap_Day5_Assignment` on your local machine.
+   - Create a new folder named `CSS_Day5_Assignment` on your local machine.
 
 2. **Create Files**
 
-    - Create a new file named `index.html` and `styles.css`.
-    - You can create additional page files if your design requires it.
+    - Inside this folder, create 3 files: 2 HTML files named `index.html` and `page.html` along with a CSS file named `styles.css`.
+    - We want to continue to practice navigating between pages along with utilizing the external CSS stylesheet method.
 
-3. **index.html Structure**
+3. **Generating index.html/page.html structure**
 
-    - Ensure you are properly bringing in Bootstrap via instructions from the [documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
-    - There is not set structure for this assignment on what you should build, you could build an expanded portfolio, a blog about something you enjoy, review site of products, it is completely up to you.
-    - Try to use as much of the Bootstrap components and utilities as you can. We introduced some components like the modal that have JavaScript, you are NOT obligated to add these at this point, but you can try! It will be beneficial practice as we move into next week.
-    - Feel free to mix in HTML elements that you have learned as well.
+    - Setup your `index.html` and `page.html` with an idea in mind.  Whether this be a home page that leads to a mock product you want to display on your `page.html`, personal portfolio page, or a welcome page that leads to a blog page, it is up to you! Create something you are interested in seeing come to life!
 
-4. **styles.css**
+4. **Generating styles.css structure**
 
-    - Ensure you have your `styles.css` file linked to your `index.html` file and any additional files you create.
-    - Add some styling to your `index.html` file using CSS.
-    - You were introduced to extensions such as Bootswatch and Bootstrap-select. Try to utilize some type of extension to customize your site!
-    - Make the page unique to your own style or look up other designs for inspiration.
+    - We want you to utilize the different styling methods you have learned this week in this assignment.
+    - For your `index.html` and `page.html` files, try to utilize everything you have learned! Design them in a way that you find interesting, change the colors of your background and your fonts, generate a grid using the CSS Grid properties, and use Flexbox to manipulate the positioning of your elements.
+    - Experiment and have fun with this assignment! This is your chance to show off what you have learned over the last two weeks!
 
 5. **Submission**
 
-    - Zip the "Bootstrap_Day5_Assignment" folder.
+    - Zip the "CSS_Day5_Assignment" folder.
     - In the card with the label "Your work" click on the "+ Add or create."
     - Within that dropdown click file, and attach your zipped folder.
     - Click the submit button.
-    **or**
-    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "Bootstrap_Day5_Assignment".
+      **or**
+    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "CSS_Day5_Assignment".
 
 ## Rubric
 
-# Day 5 Project Finalization, Best Practices, and Beyond - /20
+# Day 5 Finalizing CSS Concepts, "CSS Diner" Review, and Integrative Project - /20
 
 ### File Setup and Structure - /5
 
 - **Fully Achieved - 5 pts**
-  - The necessary files are created and correctly named `index.html` and `styles.css` and any needed additional files.
-  - All Bootstrap elements introduced during this week were used/attempted to be used, (example of these elements: spinner, card, navbar, alert, badge, etc. components.) Along with adding spacing, borders, visibility, and screen reader content.
+  - The necessary files are created and correctly named `index.html`, `page.html`, and `styles.css`.
+  - All essential HTML elements are included to enable proper structuring of content.
+  - `styles.css` is properly linked to `index.html` and `page.html`.
 
 - **Partially Achieved - 3 pts**
-  - One or two of the required files are missing or improperly named.
-  - Attempt was made to use Bootstrap elements introduced during this week.
+  - Did not generate a secondary `page.html` to navigate to.
+  - `styles.css` is not properly linked to `index.html` and `page.html`.
+  - Minimal HTML elements used.
 
 - **Not Achieved - 0 pts**
   - More than two of the required files are missing or improperly named.
-  - No attempt was made to use Bootstrap elements introduced during this week.
+  - No attempt was made to link `styles.css` to `index.html` and `page.html`.
 
-### Implementation of Bootstrap - /10
+### Implementation of CSS - /10
 
 - **Fully Achieved - 10 pts**
-  - Integrated the majority of the Bootstrap elements introduced during this week appropriately.
-  - Built a site around an idea that is easily recognized within the site structure and design.
+  - CSS properties are used to manipulate elements on the page.
+  - The page is styled in a way that showcases the student's understanding of the properties.
+  - Look for a variety of different CSS properties used.
 
 - **Partially Achieved - 5 pts**
-  - Attempt was made to use the majority of the Bootstrap elements introduced during this week appropriately.
-  - Built a site around an idea that is easily recognized within the site structure and design.
+  - Minimal CSS properties used.
+  - The page is styled in a way that showcases the student's understanding of the properties.
+  - Did not try to utilize the majority of CSS properties learned this week.
 
 - **Not Achieved - 0 pts**
-  - No attempt was made to use the Bootstrap elements introduced during this week.
-  - Site is not recognizable as a site or is not built around an idea.
+  - No attempt was made to use CSS properties to manipulate elements on the page.
 
-### Styling/Content - /5
+### Content - /5
 
 - **Fully Achieved - 5 pts**
-  - Site is populated with content from either manually created information or images from local/site urls.
-  - Site's content is appropriate for the outline of the assignment.
-  - Student attempted to utilize a Bootstrap extension to customize their site.
+  - The student has populated their pages with content that is appropriate and relevant to the assignment.
+  - The overall page idea is clear and easy to understand. i.e a portfolio page, blog, or mock product page. Some type of idea was attempted to be created.
 
 - **Partially Achieved - 3 pts**
-  - Site is populated with content from either manually created information or images from local/site urls.
-  - Site's content is not appropriate for the outline of the assignment.
-  - Student attempted to utilize a Bootstrap extension to customize their site.
+  - The student has populated their pages with some of the content that is relevant to the assignment.
+  - The overall page idea is clear and easy to understand. i.e a portfolio page, blog, or mock product page. Some type of idea was attempted to be created.
 
 - **Not Achieved - 0 pts**
-  - Site is not populated with content from either manually created information or images from local/site urls.
-  - Site's content is not appropriate for the outline of the assignment.
-  - Student did not attempt to utilize a Bootstrap extension to customize their site.
+  - The student has not populated their pages with enough content that is relevant to the assignment.
+  - The overall page idea is not clear and easy to understand. i.e a portfolio page, blog, or mock product page. No type of idea was attempted to be created.
+  

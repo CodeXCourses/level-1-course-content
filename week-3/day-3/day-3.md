@@ -1,62 +1,56 @@
-# Week 3: Day 3 – Diving Deeper into Bootstrap Components and Practical Applications
+# Week 2: Day 3 – Advanced CSS: Positioning, Advanced Selectors, and Layout Introduction
 
-## Format: Morning (2 hours)
+## Format: (2 hours) + 1 Hour workshop
 
-**Purpose:** Deepen understanding of Bootstrap by introducing more components and emphasizing practical integration into web projects.
-
----
-
-## Hour 1: Exploring More Bootstrap Components
-
-### Breadcrumbs (15 minutes):
-
-- Introduce Bootstrap's `breadcrumb` component, explaining its role in enhancing navigation and user experience.
-- Demonstrate how to implement a breadcrumb trail and discuss best practices.
-
-### Pagination (15 minutes):
-
-- Explore the `pagination` component for navigating through large datasets or lists.
-- Showcase different styles, sizes, and configurations, emphasizing usability.
-
-### Tooltips and Popovers (25 minutes):
-
-- Introduce `tooltips` and `popovers` for providing additional information and context to users.
-- Show how to implement them, discuss when to use each, and highlight the importance of accessibility.
-
-### Interactive Session (5 minutes):
-
-- Students experiment with implementing breadcrumbs, pagination, tooltips, and popovers in their projects.
-- Prompt: Enhance a list or data-heavy section of your project using pagination and provide additional context using tooltips or popovers.
+**Purpose:** Delve into the intricacies of CSS positioning, explore advanced selectors, start introducing basic layout techniques, and assign an engaging game for practical application.
 
 ---
 
-## Hour 2: Integrating Components and Refining Design
+## Hour 1: Positioning and Advanced Selectors
 
-### Creating a Featured Section with Cards and Grid System (20 minutes):
+### CSS Positioning Basics (20 minutes):
 
-- Introduce the concept of Cards in Bootstrap as a flexible and extensible content container.
-- Explain that Cards support a wide variety of content, including text, images, links, and more.
-- Highlight that the Bootstrap Grid system allows you to create responsive layouts, making your card-based design adapt seamlessly to different screen sizes.
-- Showcase how to combine Cards and the Grid system to create a featured content section on your website.
-- Provide an example of how to structure the HTML to implement a grid of cards, paying attention to the use of classes such as `row`, `col-md-4`, and `card`.
-- Discuss best practices for creating visually appealing and user-friendly card layouts.
-- Encourage students to experiment with different types of content inside the cards, such as images, text, buttons, and links.
-- Highlight the importance of consistency in card design to provide a cohesive user experience.
+- Introduce positioning properties: `static`, `relative`, `absolute`, `fixed`, and `sticky`.
+- Demonstrate how these properties affect the placement and behavior of elements.
 
+### Advanced Selectors (15 minutes):
 
-### Hands-on Project Work (30 minutes):
+- Dive deeper into more intricate selectors like child (`>`), adjacent sibling (`+`), general sibling (`~`), and attribute selectors (`[attr=value]`).
+- Discuss the power and specificity of these selectors.
 
-- Continue integrating and experimenting with Bootstrap components in practical scenarios.
-- Encourage collaboration and experimentation, fostering a creative learning environment.
+### "CSS Diner" Game Introduction (10 minutes):
 
-### Group Feedback and Showcase (5 minutes):
+- Introduce [CSS Diner](https://flukeout.github.io/) as an assignment to practice CSS selectors.
+- Explain its structure: 32 levels, each focusing on different selectors or combinations.
+- Live demo: Walk through the first 5 levels, showcasing the gameplay and the learning process.
 
-- Facilitate a session where students can share their progress, discuss challenges, and receive feedback.
-- Highlight unique implementations and creative solutions, fostering a supportive learning community.
+### Interactive Session (15 minutes):
+
+- Students start experimenting with the levels you just demoed, ensuring they understand the game mechanics.
+- Encourage them to note down any selectors or concepts they find confusing.
+
+---
+
+## Hour 2: Starting with Layout Techniques
+
+### The Display Property (15 minutes):
+
+- Introduce the `display` property, emphasizing values like `block`, `inline`, `inline-block`, and `none`.
+- Discuss the impact of each value on element rendering.
+
+### Flexbox Introduction (20 minutes):
+
+- Start with the basics of Flexbox as a modern layout technique.
+- Highlight main concepts: container vs. items, main axis vs. cross axis.
+- Introduce fundamental properties: `display: flex`, `flex-direction`, `justify-content`, `align-items`, etc.
+
+### Interactive Session (20 minutes):
+
+- Students start experimenting with Flexbox.
+- Task: Create a simple navigation bar using Flexbox and position a dropdown menu using the positioning techniques learned earlier.
 
 ### Wrap-Up (5 minutes):
 
-- Recap the importance of navigation, user feedback, and featured content in web design.
-- Preview Day 4, setting the stage for diving into advanced Bootstrap topics and customization.
-
----
+- Recap the day's deep dive into advanced CSS topics and the introduction of the "CSS Diner" game.
+- Remind students about the due date for the game assignment: Day 5.
+- Preview Day 4's content: Delving deeper into Flexbox, introducing the Grid layout, and responsive design basics.

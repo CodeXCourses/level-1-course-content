@@ -1,52 +1,50 @@
-# Week 7: Day 2 – Review of CSS Basics and Advanced Layouts with Flexbox and Grid
+# Week 3: Day 2 – Exploring Bootstrap's Grid System and Key Components
 
-## Session Outline
+## Format:(2 hours)
 
-Focus: Refreshing the understanding of basic CSS syntax and properties, followed by an in-depth review of advanced layout techniques using Flexbox and CSS Grid.
-
-## Objectives
-
-1. Review basic CSS syntax and styling principles.
-2. Gain a deeper understanding of Flexbox for responsive design.
-3. Explore CSS Grid for complex web layouts.
-
-## Announcements
-
-- **Capstone Project Reminder**: Continue brainstorming and planning your project, integrating HTML and CSS skills.
-- **Interactive Practice**: Utilize this session for hands-on practice and clarifying any CSS-related queries.
-
-## Key Concepts
-
-### 1. CSS Syntax and Styling Review
-
-- Revisiting CSS selectors, properties, and values.
-- Discussing the box model, including margins, borders, padding, and content areas.
-- Overview of common CSS properties used for text styling and layout.
-
-### 2. Mastering Flexbox
-
-- Understanding the Flex container and Flex items.
-- Practical applications of Flexbox properties: `flex-direction`, `justify-content`, `align-items`, etc.
-- Building responsive layouts with Flexbox.
-
-### 3. Exploring CSS Grid
-
-- Fundamentals of CSS Grid layout: grid container and grid items.
-- Properties of CSS Grid: `grid-template-columns`, `grid-template-rows`, `grid-area`, and more.
-- Creating complex and responsive web layouts using Grid.
-
-## Interactive Elements
-
-- **Code-Along Segments**: Participants will implement CSS styles, Flexbox, and Grid layouts in a sample web page.
-- **Layout Challenges**: Hands-on exercises to create responsive layouts using Flexbox and Grid.
-- **Review Activities**: Group discussions and reviews of different CSS techniques and their applications.
-
-## Wrap-Up
-
-- Summary of CSS fundamentals and advanced layout techniques.
-- Emphasizing the importance of CSS in the upcoming capstone project.
-- Q&A session for any final clarifications or discussions about CSS concepts.
+**Purpose:** Dive deeper into the grid system, which is fundamental to Bootstrap's layout capabilities, and explore some of the framework's key components.
 
 ---
 
-**Note for Instructors**: Encourage students to apply both basic and advanced CSS techniques. Provide examples that showcase the power of Flexbox and Grid in creating responsive designs. Offer guidance on integrating these layouts into their capstone projects.
+## Hour 1: Deep Dive into the Grid System
+
+### Bootstrap Grid Basics (20 minutes):
+
+- Discuss the 12-column grid system and its role in responsive web design.
+- Introduce basic classes: `row`, `col`, `col-md-*`, etc.
+- Discuss how columns automatically adjust based on the number of sibling columns.
+
+### Responsive Grid Layouts (20 minutes):
+
+- Explain the mobile-first design philosophy of Bootstrap.
+- Demonstrate how to use classes like `col-sm`, `col-md`, `col-lg`, etc., to create responsive layouts.
+- Showcase how columns can be reordered or offset for more complex designs.
+
+### Interactive Session (20 minutes):
+
+- Students practice creating various grid layouts, from simple two-column designs to more complex, multi-tiered layouts.
+- Challenge: Create a responsive layout that adjusts based on different device screen sizes.
+
+---
+
+## Hour 2: Introducing Bootstrap Components
+
+### Alerts and Badges (15 minutes):
+
+- Demonstrate how to use Bootstrap's `alert` component to display feedback messages.
+- Introduce the `badge` component for small counters or labels.
+
+### Navigation Systems (20 minutes):
+
+- Dive into the `nav` component, discussing its flexibility for creating navigation bars, tabs, and pills.
+- Showcase vertical and horizontal navigation variants.
+
+### Interactive Session (20 minutes):
+
+- Students incorporate alerts, badges, and navigation systems into their ongoing projects.
+- Task: Create a responsive navigation bar that collapses into a dropdown on smaller screens.
+
+### Wrap-Up (5 minutes):
+
+- Recap the day's exploration of Bootstrap's grid system and component introduction.
+- Preview Day 3's content: Continuing with more Bootstrap components (Spinners, List Groups, Cards) and practical application exercises.

@@ -1,55 +1,58 @@
-# Week 3: Day 1 – Introduction to Bootstrap and Basic Styling
+# Week 2: Day 1 – Introduction to CSS and Styling Basics
 
-## Format: (2 hours)
+## Format: Morning (2 hours)
 
-**Purpose:** Introduce students to the Bootstrap framework, highlight its utility in front-end web development, and delve into basic styling techniques.
-
----
-
-## Hour 1: Introduction to Bootstrap
-
-### Why Bootstrap? (20 minutes):
-
-- Discuss the challenges of front-end web development: consistency, responsiveness, and browser compatibility.
-- Introduce Bootstrap as a solution to these challenges.
-- Highlight Bootstrap's mobile-first design and extensive component library.
-
-### Importing Bootstrap (10 minutes):
-
-- Demonstrate how to import Bootstrap CSS from a remote CDN into an HTML document.
-- Explain the significance of including the Bootstrap JavaScript library for some components.
-
-### Bootstrap's Basic Styling (15 minutes):
-
-- Discuss Bootstrap's utility classes for spacing: padding (`p-*`) and margin (`m-*`).
-- Showcase the flexibility of these classes for different screen sizes.
-
-### Interactive Session (15 minutes):
-
-- Students set up a new HTML document or use their project from previous weeks.
-- Import Bootstrap and experiment with the spacing utility classes.
+**Purpose:** Transition from the structure-focused world of HTML to the visually creative realm of CSS. Introduce the fundamentals of CSS and how it interacts with HTML to produce styled web content.
 
 ---
 
-## Hour 2: Buttons and Containers in Bootstrap
+## Hour 1: Introduction to CSS
 
-### Styling Buttons with Bootstrap (20 minutes):
+### Why CSS? (10 minutes):
 
-- Introduce Bootstrap's button classes: `btn`, `btn-primary`, `btn-info`, `btn-warning`, etc.
-- Discuss the significance of button states and how they improve user experience.
+- Explain the importance of CSS in web development.
+- Describe the relationship between HTML (structure) and CSS (style).
 
-### Containers and Layout (20 minutes):
+### Basics of CSS Syntax (15 minutes):
 
-- Discuss the role of containers in Bootstrap to frame and center content.
-- Introduce the `container` and `container-fluid` classes.
-- Briefly touch upon the importance of the grid system, setting the stage for deeper exploration in the following days.
+- Introduce the anatomy of a CSS rule: selectors, properties, and values.
+- Discuss the concept of specificity and how selectors enable CSS.
+
+### Inline Styles vs. Styles in `<head>` (20 minutes):
+
+- Demonstrate applying inline styles to HTML elements.
+- Show how to add a `<style>` section within the `<head>` to apply styles.
 
 ### Interactive Session (15 minutes):
 
-- Students integrate Bootstrap-styled buttons into their projects.
-- Experiment with placing content inside different types of containers.
+- Students practice applying inline styles and head styles to their HTML content from the previous week.
+- Encourage experimentation with different properties and values.
+
+---
+
+## Hour 2: Diving Deeper into Selectors and Properties
+
+### Selectors in-depth (20 minutes):
+
+- Elaborate on different types of selectors: element, class, and ID.
+- Demonstrate how to style based on these selectors.
+
+### Colors in CSS (15 minutes):
+
+- Discuss different ways to define colors: color names, RGB values, and HEX codes.
+- Show practical examples of applying these color methods.
+
+### Box Model Introduction (10 minutes):
+
+- Introduce the CSS box model concept.
+- Explain padding, margin, and borders, showcasing how they affect element spacing.
+
+### Interactive Session (10 minutes):
+
+- Students experiment with selectors, colors, and the box model on their projects.
+- Prompt: Style a paragraph with a specific background color, margin, padding, and border.
 
 ### Wrap-Up (5 minutes):
 
-- Recap the day's introduction to Bootstrap and its foundational concepts.
-- Preview Day 2's content: Deep dive into Bootstrap's grid system, rows, columns, and more advanced components.
+- Recap the day's learning.
+- Preview Day 2's content: Diving deeper into the box model, text styling, and understanding browser defaults.

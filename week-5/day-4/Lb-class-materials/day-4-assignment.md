@@ -1,75 +1,85 @@
-# Week 5: Day 4 Assignment - Deploying with GitHub Pages
+# Week 4: Day 4 – Introduction and Exploration of Objects
 
-## Objective
-
-Practice deploying a static site using GitHub Pages, starting with a `README.md` and then transitioning to a basic HTML website.
+In today's lecture, you learned about the fundamentals of objects and how they can be used to structure and group related data in JavaScript. Now it's time to put your knowledge to the test.
 
 ## Instructions
 
-This assignment is divided into two main parts: deploying a `README.md` file using GitHub Pages and then creating and deploying a basic HTML website.
+  1. **Setup Environment**
+      - Open Visual Studio Code.
+      - Create a new folder named JS_Objects_Assignment on your local machine.
 
-### Part 1: Deploying README.md on GitHub Pages
+  2. **Create Files**
+        - Create a new file named `objects.js` and `index.html`.
 
-- **Create a New Repository on GitHub**:
+  3. **index.html**
+      - Generate a generic HTML page; you are not required to bring in any elements.
 
-  - If you haven't already, create a new repository on GitHub named `MyStaticSite`.
-  - Initialize the repository with a `README.md`.
+      - Ensure you connect your script.js file to your index.html file using a script tag like this: `<script src="objects.js"></script>`.
 
-- **Deploy README.md Using GitHub Pages**:
-  - In your repository settings, enable GitHub Pages for your repository.
-  - Set the source for GitHub Pages to the `main` branch.
-  - Once deployed, visit the provided URL to ensure your `README.md` is live.
+      - You will be utilizing your dev tools to see your console logs you create below! (hint: right-click on your page and click inspect, then click on the console tab in case you need a refresher!)
 
-### Part 2: Transition to HTML Deployment
+  4. **script.js**
 
-- **Develop a Basic HTML Website**:
+        - A good practice when creating JavaScript files is to start your file with a 'use strict'; statement. This will help you avoid common mistakes and write better code.
 
-  - Clone your repository to your local machine.
-  - Create an `index.html` file with basic HTML content (e.g., a brief introduction about yourself or a topic of interest).
-  - Add and commit your changes locally.
+        - Create an object named book that represents a book with properties like title, author, and publishedYear. Fill in these properties with values of your choice.
 
-- **Deploy Your HTML Website**:
-  - Push your changes to your GitHub repository.
-  - Verify that GitHub Pages now serves your `index.html` instead of the `README.md`.
-  - Visit the GitHub Pages URL to ensure your HTML page is live.
+        - Create a function named printBookInfo that takes a book object as a parameter and logs a message to the console, including all the properties of the book.
 
-## Submission
+        - Create another object named studentProfile that represents a student's profile with properties like name, age, and an array courses containing a list of courses the student is taking.
 
-- **Submit Your Work**:
-  - Ensure both your `README.md` and `index.html` are visible in your GitHub repository.
-  - Submit the link to your GitHub Pages site in the "Your work" card.
+        - Create a function named addCourse that takes a student profile and a new course as parameters. This function should add the new course to the student's list of courses.
 
-## Rubric
+        - Create a function named updateAge that takes a student profile and a new age as parameters. This function should update the student's age.
 
-### GitHub Pages Deployment - /20
+        - Call the printBookInfo function with the book object and log the book's details.
 
-#### 1. Repository Setup and README Deployment - /10 Points
+        - Call the addCourse function to add a new course to the studentProfile object.
 
-- **Fully Achieved (10 pts)**
+        - Call the updateAge function to update the age of the studentProfile object.
 
-  - Created a new repository named MyStaticSite with an initialized README.md.
-  - Successfully deployed README.md using GitHub Pages.
-  - The README.md is live and correctly displayed.
+        - Generate console logs as you alter the objects to ensure everything is functioning properly.
 
-- **Partially Achieved (5 pts)**
+  5. **Submission**
+        - Zip the "JS_Objects_Assignment" folder.
+        - In the card with the label "Your work," click on the "+ Add or create."
+        - Within that dropdown, click "File," and attach your zipped folder.
+        - Click the submit button.
+        **or**
+        - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "JS_Objects_Assignment."
 
-  - Repository created, README.md exists but has issues in deployment or content display.
+# Rubric
 
-- **Not Achieved (0 pts)**
-  - Repository not created as instructed, or README.md not deployed or visible.
+## Day 4 Exploring JavaScript Objects - /20
 
-#### 2. HTML Website Deployment - /10 Points
+### File Setup and Functions - /10
 
-- **Fully Achieved (10 pts)**
+- **Fully Achieved - 10 pts**
+  - The necessary files are created and correctly named index.html and objects.js.
+  - The objects.js file is properly linked to the index.html file.
+  - Functions are created and named appropriately, this includes a **printBookInfo**, **addCourse**, and **updateAge**.
+  - Functions are called with the correct parameters and console logged.
 
-  - Cloned repository to local machine.
-  - Created an `index.html` with relevant content.
-  - Successfully pushed changes and deployed HTML website.
-  - The website is live and displays as intended.
+- **Partially Achieved - 5 pts**
+  - One or two of the required files are missing or improperly named.
+  - Attempt was made to create functions with some correct naming.
+  - Attempt was made to call functions with some correct parameters.
 
-- **Partially Achieved (5 pts)**
+- **Not Achieved - 0 pts**
+  - More than two of the required files are missing or improperly named.
+  - No attempt was made to create functions with correct naming.
+  - No attempt was made to call functions with correct parameters.
 
-  - HTML website created but has issues in deployment, content display, or does not follow the assignment instructions fully.
+- **Implementation of JavaScript Objects - /10**
 
-- **Not Achieved (0 pts)**
-  - No HTML website deployed, or the site is not accessible.
+- **Fully Achieved - 10 pts**
+  - Objects are created with appropriate properties from instructions, this includes a **book object** and **studentProfile object**.
+  - Objects have the correct parameters and console logged.
+
+- **Partially Achieved - 5 pts**
+  - Attempt was made to create objects with some correct naming.
+  - Attempt was made to call functions with some correct parameters to log information from objects.
+
+- **Not Achieved - 0 pts**
+  - No attempt was made to create objects or functions with correct naming.
+  - No attempt was made to call functions with correct parameters.

@@ -1,54 +1,54 @@
-# Week 5: Day 4 – Deployment with GitHub Pages
+# Week 4: Day 4 – Objects in JavaScript
 
 ## Session Outline
 
-Focus: Introducing students to GitHub Pages for deploying static sites, starting with a `README.md` and progressing to a basic HTML website.
+Focus: Comprehensive understanding of objects in JavaScript.
 
 ## Objectives
 
-1. Understand the basics of deploying static sites using GitHub Pages.
-2. Deploy a `README.md` file as a starting point for GitHub Pages.
-3. Transition to deploying a basic HTML website and observe the deployment process.
+1. Learn how to create and manipulate objects in JavaScript.
+2. Understand how to access and modify object properties and methods.
+3. Explore the use of objects in data organization and structure.
 
 ## Key Concepts
 
-### 1. Introduction to GitHub Pages
+### 1. Introduction to Objects
 
-- Overview of GitHub Pages as a hosting platform for static websites.
-- The process of enabling GitHub Pages in a repository.
+- Concept of objects as key-value pairs.
+- Uses of objects in representing data structures.
 
-### 2. Deploying a README.md
+### 2. Creating and Modifying Objects
 
-- Step-by-step guide to deploy a `README.md` as a static site.
-- Discussion on the significance of `README.md` in GitHub repositories.
+- Basics of creating objects with object literals.
+- Adding, modifying, and deleting object properties.
 
-### 3. Transitioning to HTML Deployment
+### 3. Property Access Methods
 
-- Basics of creating a simple HTML file (`index.html`).
-- The importance of `index.html` as the entry point for static websites.
+- Accessing properties using dot and bracket notation.
+- When and why to use each method.
 
-## Hands-On Exercise: Deploying on GitHub Pages
+### 4. Object Methods and the `this` Keyword
 
-- Initial exercise: Students deploy their `README.md` using GitHub Pages.
-- Advanced exercise: Students clone their repository, add an `index.html`, and deploy it using GitHub Pages.
-- Observing the transition from `README.md` to `index.html` in their GitHub Pages site.
+- Defining methods within objects.
+- Usage of `this` in object methods.
 
-## Assignment Preparation
+### 5. Advanced Object Concepts
 
-- Instructions for creating a basic `index.html` file.
-- Guidance on using Git for adding, committing, and pushing changes to deploy the HTML file.
+- Exploring nested objects.
+- Iterating over object properties.
+- The relationship between objects and arrays.
 
-## Breakout Rooms: Practicing Deployment
+## Interactive Elements
 
-- Students work in groups to troubleshoot and successfully deploy their static sites.
-- Emphasis on the ACP (Add, Commit, Push) process in deployment.
+- **Code-Along Segments**: Practical coding exercises focused on object manipulation.
+- **Mini-Challenges**: Tasks emphasizing the creation and use of objects.
 
-## Conclusion
+## Wrap-Up
 
-- Recap of the steps for deploying static sites using GitHub Pages.
-- Discussion on the practical applications of GitHub Pages in sharing and showcasing projects.
-- Preview of Day 5: Consolidating the week's learnings and preparing for the final project.
+- Summary of key takeaways about objects.
+- Open discussion and Q&A session.
+- Preview of how objects fit into larger JavaScript programming concepts.
 
 ---
 
-**Note for Instructors**: Encourage experimentation with HTML content and reinforce the importance of the ACP process in deployment. Be prepared to assist students with common issues related to GitHub Pages deployment.
+**Note for Instructors**: Adapt the content and pacing to suit the class's progress and time availability. Ensure to provide additional resources for students to explore these concepts further.

@@ -1,58 +1,74 @@
-# Week 2: Day 1 – Introduction to CSS and Styling Basics
+# Week 1: Day 1 – Intro to HTML with Developer Tools & VS Code
 
 ## Format: Morning (2 hours)
 
-**Purpose:** Transition from the structure-focused world of HTML to the visually creative realm of CSS. Introduce the fundamentals of CSS and how it interacts with HTML to produce styled web content.
+**Purpose:** Start with a review of developer tools and VS Code to ensure everyone is on the same page, then dive into the basics of HTML. Show practical applications of tools in real-world coding scenarios.
 
 ---
 
-## Hour 1: Introduction to CSS
+## Hour 1: Review of Developer Tools and VS Code
 
-### Why CSS? (10 minutes):
+### Dev Tools & VS Code Overview (30 minutes):
 
-- Explain the importance of CSS in web development.
-- Describe the relationship between HTML (structure) and CSS (style).
+- Brief recap of Chrome Dev Tools:
+  - Purpose and importance.
+  - Basic features.
+- Brief recap of VS Code:
+  - Purpose in web development.
+  - Installation process.
+  - Essential features: creating files, opening folders, and installing extensions.
+    - Create folder on desktop
+    - Open folder in VS Code
+    - Create index.html
+    - Create a folder in VS Code
+    - Nest a Folder within that folder to show how it displays 2 empty folders nested
+    - Create files within the folders to show how that behaves
+    - Set up Prettier, set as default code formatter. Select options format on save, format on paste.
+    - Show extensions for themes.
+    - Show better comments extension (optional)
+    - Turn on Auto Save
 
-### Basics of CSS Syntax (15 minutes):
+### Practical Application (30 minutes):
 
-- Introduce the anatomy of a CSS rule: selectors, properties, and values.
-- Discuss the concept of specificity and how selectors enable CSS.
+Ask the class to follow along.
 
-### Inline Styles vs. Styles in `<head>` (20 minutes):
-
-- Demonstrate applying inline styles to HTML elements.
-- Show how to add a `<style>` section within the `<head>` to apply styles.
-
-### Interactive Session (15 minutes):
-
-- Students practice applying inline styles and head styles to their HTML content from the previous week.
-- Encourage experimentation with different properties and values.
+- Install the `live-server` extension in VS Code.
+- Create a basic HTML file named "index.html".
+- Add a simple "Hello, World!" message.
+- Launch the `live-server` to view the HTML file in a browser.
+- Use Chrome Dev Tools to inspect the "Hello, World!" message.
+- Discuss how this simple setup simulates a real-world development environment.
 
 ---
 
-## Hour 2: Diving Deeper into Selectors and Properties
+## Hour 2: Introduction to HTML
 
-### Selectors in-depth (20 minutes):
+### Basics of HTML (25 minutes):
 
-- Elaborate on different types of selectors: element, class, and ID.
-- Demonstrate how to style based on these selectors.
+- Explain the building blocks of HTML documents.
 
-### Colors in CSS (15 minutes):
+  - What is HTML? HTML (HyperText Markup Language) is a markup language that tells web browsers how to structure the web pages you visit.
+  - It can be as complicated or as simple as the web developer wants it to be. HTML consists of a series of `elements`
+  - [Show anatomy of HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element)
 
-- Discuss different ways to define colors: color names, RGB values, and HEX codes.
-- Show practical examples of applying these color methods.
+  - Open VS Code and type out the starter code
+  - Discuss structural tags: paragraphs, divisions, headers, and footers.
 
-### Box Model Introduction (10 minutes):
+  - Show typography tags: strong, and italics.
 
-- Introduce the CSS box model concept.
-- Explain padding, margin, and borders, showcasing how they affect element spacing.
+### Interactive Session (20 minutes):
 
-### Interactive Session (10 minutes):
+- Students create their own basic HTML file in VS Code (or Replit if they encounter issues with VS Code).
+- They replicate the "Hello, World!" setup and experiment with adding paragraphs, headers, and basic formatting.
 
-- Students experiment with selectors, colors, and the box model on their projects.
-- Prompt: Style a paragraph with a specific background color, margin, padding, and border.
+### Contingency for Troubleshooting (10 minutes):
+
+- Address common issues with VS Code setup.
+- Provide guidance for using Replit as an alternative.
+- Highlight the importance of flexibility in tool usage in real-world scenarios.
 
 ### Wrap-Up (5 minutes):
 
-- Recap the day's learning.
-- Preview Day 2's content: Diving deeper into the box model, text styling, and understanding browser defaults.
+- Encourage students to experiment further with HTML.
+- Remind them of the skills needed for the HTML badge.
+- Preview what's coming up in the next session.

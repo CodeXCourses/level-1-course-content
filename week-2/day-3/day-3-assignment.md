@@ -1,89 +1,111 @@
-# Week 2 Day 3 – Advanced CSS: Positioning, Advanced Selectors, and Layout Introduction
+# Week 1: Day 3 – Lists, Tables, and Advanced HTML Structures
 
-Today you were introduced to CSS positioning/display properties and utilizing advanced selectors. This assignment will be broken up into 2 different parts. The first part will be the completion of the [CSS Diner](https://flukeout.github.io/) game which will help with understanding the advanced selectors. The second part will be a small webpage to practice the position and display properties.
+The goal of this assignment is to reinforce new HTML elements in regards to creating a table and inputting information along with the ability to create lists.
+
+## New Concepts
+
+* html tags with structure
+* lists
+* tables
+
+## Reviewed Concepts
+
+* navigation header
+* typographic html tags like h1
 
 ## Instructions
 
 1. **Setup Environment**
 
    - Open **Visual Studio Code**.
-   - Create a new folder named `CSS_Day3_Assignment` on your local machine.
+   - Create a new folder named `HTML_Day3_Assignment` on your local machine.
 
 2. **Create Files**
 
-   - Inside the `CSS_Day3_Assignment` folder, create 2 files: an HTML file named `index.html` and a CSS file named `styles.css`.
-   - We will be navigating toward using the external stylesheet method going forward, this is because it is the most common practice in the industry.
+   - Inside this folder, create 3 files: an HTML file named `index.html`, `lists.html`, and `table.html`.
 
-3. **CSS Diner**
+3. **index.html Structure**
 
-   - Navigate to the [CSS Diner game](https://flukeout.github.io/).
-   - Complete first 16 levels of the game.
-   - Take a screenshot of **all the completed levels** and attach it to your submission in the root directory like you did yesterday for your box model screenshot.
-   - Utilize the TAs and your classmates if you get stuck! This is a great opportunity to practice your collaboration skills.
+   - Structure the document with a `<header>`, `<nav>`, `<main>`, and `<footer>`.
+   - In the `<header>`, add an `<h1>` with "Welcome to [Your Name]'s Passion Page!".
+   - Inside `<nav>`, create links using the `<a>` tag to both `index.html` (label it "Home"), `lists.html` (label it "Lists"), and `table.html` (label it "Table").
 
-4. **index.html**
+4. **Lists**
 
-   - Setup your `index.html` with at _LEAST_ 9 elements.
-   - You will be applying one of the positioning/display properties to each element.
-   - **These elements do not need to be complex, feel free to use simple elements with any amount of you want. An example could be some `<p>` with your name, or `<div` holding a small sentence. These are not meant to be difficult to generate, just create some simple ones you can manipulate with the properties learned today**
-   - Don't worry if they are overlapping or not positioned correctly, we just want you to practice using these properties so you can see how they interact with your webpage.
+   - Create an unordered list with at least 5 items. The list should contain a nested list.
+   - If you are creating an ordered list ensure you are using the correct `<ol>` and `<li>` tags. Otherwise you can generate an unordered list using the `<ul>` and `<li>` tags.
+   - The content of your list can be anything of your choosing, but it should be relevant to you.
 
-5. **styles.css**
+5. **Table**
 
-   - As mentioned above each element will need to be manipulated with one of the positioning/display properties.
-   - You will be applying CSS positioning to these elements, so you will have 1 with `position: static`, 1 with `position: relative`, 1 with `position: absolute`, 1 with `position: fixed`, and 1 with `position: sticky`.
-   - Ensure you have your live server open as you apply these position properties so you can see how they interact with each other. Change the border color of each element to make it easier to see.
-   - The remaining elements will be using the `display` property, so you will have 1 with `display: block`, 1 with `display: inline`, 1 with `display: inline-block`, and 1 with `display: none`.
-   - Try setting distinct borders to each element with different colors so you can see how they interact with each other. (Remember to use your class/id selectors to make your life easier!)
-   - Feel free to experiment with the Flexbox properties you learned as well, however we will be diving deeper into these tomorrow!
+   - Create a table with some NEW information you are passionate about! This could be your favorite movies, books, food, games, etc. The table should have at least 3 columns and 3 rows.
+   - Ensure you are properly utilizing the `<table>`, `<tbody>`, `<th>`, `<tr>`, `<td>` and `<tfoot>` tags.
+   - Reference back to lecture notes if you need a refresher on how to properly structure a table!
 
 6. **Submission**
-   - **This is your first larger assignment day, this assignment is broken into the two portions with the CSS Diner game and the webpage. Please make sure you submit the screenshot of CSS diner levels with your webpage for this assignment.**
-   - Zip the "CSS_Day3_Assignment" folder.
+   - Zip the "HTML_Day3_Assignment" folder.
    - In the card with the label "Your work" click on the "+ Add or create."
    - Within that dropdown click file, and attach your zipped folder.
    - Click the submit button.
-     **or**
-   - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "CSS_Day3_Assignment".
+    **or**
+   - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "HTML_Day3_Assignment".
 
-## Rubric
+## Rubric:
 
-### Day 3 Advanced CSS: Positioning, Advanced Selectors, and Layout Introduction - /20
+# Day 3 Lists, Tables, and Advanced HTML Structures - /20
 
-### CSS Diner - /10
+### File Setup and Structure - /5
 
-- **Fully Achieved - 10 pts**
+- **Fully Achieved - 5 pts**
+  - All necessary files are created and correctly named.
+  - All necessary elements are included to allow for a user to navigate between the pages.
+  - All required `<table>` and `<list>` tags are included. Including their sub elements.
 
-  - First 16 levels of the game are completed.
-  - Screenshot of all completed levels is attached to submission.
+- **Partially Achieved - 3 pts**
+  - One or two of the required files are missing or improperly named.
+  - One or two of the required elements are missing or improperly placed.
+  - One or two of the required `<table>` and `<list>` tags are missing. Including their sub elements.
+  
+- **Not Achieved - 0 pts**
+  - More than two of the required files are missing or improperly named.
+  - More than two of the required elements are missing or improperly placed.
+  - More than two of the required `<table>` and `<list>` tags are missing. Including their sub elements.
 
-- **Partially Achieved - 5 pts**
+### Generation of a list containing a sub list - /5
 
-  - Majority of first 16 levels of the game are completed.
-  - Screenshot of completed levels is attached to submission.
+- **Fully Achieved - 5 pts**
+  - A list is generated with at least 5 items.
+  - The list contains a nested list.
+
+- **Partially Achieved - 3 pts**
+  - A list is generated with at least 3 items.
+  - There was an attempt at creating a nested list.
 
 - **Not Achieved - 0 pts**
-  - Less than 8 levels of the game are completed.
-  - Screenshot of completed levels is not attached to submission.
+  - A list is not generated with at least 3 items.
+  - The list does not contain a nested list.
 
-### Implementation of CSS - /10
+### Generation of a table - /5
 
-- **Fully Achieved - 10 pts**
+- **Fully Achieved - 5 pts**
+  - A table is generated with at least 3 columns and 3 rows.
+  - The table contains the appropriate `<table>`, `<tbody>`, `<th>`, `<tr>`, `<td>` and `<tfoot>` tags.
 
-  - Integrated the majority of the CSS elements learned this week appropriately.
-  - Populated content to fill elements.
-  - Utilized both positioning and display properties.
-  - Utilized external styling methods.
-
-- **Partially Achieved - 5 pts**
-
-  - Integrated some of the CSS elements learned this week appropriately.
-  - Populated content to fill elements.
-  - Utilized both positioning and display properties.
-  - Utilized external styling methods.
+- **Partially Achieved - 3 pts**
+  - A table is generated with at least 2 columns and 2 rows.
+  - The table contains some of the appropriate `<table>`, `<tbody>`, `<th>`, `<tr>`, `<td>` and `<tfoot>` tags.
 
 - **Not Achieved - 0 pts**
-  - No attempt was made to integrate the CSS elements learned from lesson.
-  - No attempt was made to populate content to fill elements.
-  - No attempt was made to utilize both positioning and display properties.
-  - No attempt was made to utilize external styling methods.
+  - A table is not generated with at least 2 columns and 2 rows.
+  - The table does not contain any of the appropriate `<table>`, `<tbody>`, `<th>`, `<tr>`, `<td>` and `<tfoot>` tags.
+
+### Personalized Content - /5
+
+- **Fully Achieved - 5 pts**
+  - All content is relevant to the student and is appropriate for the assignment.
+
+- **Partially Achieved - 3 pts**
+  - Some content is relevant to the student and is appropriate for the assignment.
+  
+- **Not Achieved - 0 pts**
+  - The content is not relevant to the student and is not appropriate for the assignment.

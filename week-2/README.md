@@ -1,61 +1,63 @@
-# Week 2 Summary: Deep Dive into CSS
+# Week 1 Summary: Dive into HTML
 
-Welcome to Week 2, where we transition from the foundational realm of HTML to the aesthetic magic of CSS. Over the next five days, we explore the visual components of web design, emphasizing how CSS transforms web content. Here's a brief overview:
+Welcome to Week 1, where we embark on an enlightening journey into the world of HTML. Over the next five days, we tackle the core concepts of HTML and lay a strong foundation for our web development journey. Here's what you can expect:
 
-### Day 1: **Introduction to CSS and Styling Basics**
+### Day 1: **Intro to HTML with Developer Tools & VS Code**
 
 - **Key Topics:**
-  - The importance of CSS in enhancing web content.
-  - Basic CSS syntax and its interaction with HTML.
-  - Different ways to integrate CSS into HTML.
+  - Introduction to Chrome Dev Tools & VS Code.
+  - Fundamentals of HTML.
+  - Real-world application of developer tools.
 - **Hands-on Activity:**
-  - Students experiment with inline styles and styles within the `<head>`.
+  - Set up a basic HTML page with "Hello, World!" using the `live-server` extension.
 
 ---
 
-### Day 2: **Expanding CSS Knowledge: Fonts, Borders, and the Box Model**
+### Day 2: **Exploring HTML Elements and Attributes**
 
 - **Key Topics:**
-  - Detailed exploration of text styling and typography on the web.
-  - Advanced properties of the box model.
-  - Introducing interactive styles using hover states.
+  - Dive deeper into various HTML elements.
+  - Introduction to attributes like `id`, `class`, and `style`.
 - **Hands-on Activity:**
-  - Students delve into text styling and experiment with borders.
+  - Build a basic webpage layout.
+  - Implement navigation within the website.
 
 ---
 
-### Day 3: **Advanced CSS: Positioning, Advanced Selectors, and Layout Introduction**
+### Day 3: **Lists, Tables, and Advanced HTML Structures**
 
 - **Key Topics:**
-  - Complexities of CSS positioning.
-  - Advanced selector usage in CSS.
-  - Introduction to modern layout techniques with an emphasis on Flexbox.
-  - Engagement with the "CSS Diner" game for practical application.
+  - Understand the importance of lists in web design.
+  - Construct tables for data representation.
+  - Introduction to advanced HTML structures: `<article>`, `<section>`, `<aside>`, and more.
 - **Hands-on Activity:**
-  - Students tackle the "CSS Diner" game levels and initiate their journey into Flexbox.
+  - Create ordered and unordered lists.
+  - Build a table representing favorite books.
 
 ---
 
-### Day 4: **Mastering Flexbox, Introduction to CSS Grid, and Responsive Design Basics**
+### Day 4: **Advanced HTML Structures and Deeper into Attributes**
 
 - **Key Topics:**
-  - Deepening understanding of Flexbox for layout design.
-  - Beginning our exploration into CSS Grid.
-  - Foundational concepts of responsive web design.
+  - Explore semantic HTML with advanced tags.
+  - Dive deep into the world of HTML attributes and their power.
 - **Hands-on Activity:**
-  - Students transform their Flexbox designs into Grid layouts and start their responsive design journey.
+  - Implement advanced structures in ongoing HTML projects.
+  - A mini-project creating a structured content page.
 
 ---
 
-### Day 5: **Finalizing CSS Concepts, "CSS Diner" Review, and Integrative Project**
+### Day 5: **Finalizing HTML Badge and Introduction to Forms**
 
 - **Key Topics:**
-  - Reviewing challenges faced in the "CSS Diner" game.
-  - Reinforcing CSS concepts learned throughout the week.
-  - Discussing best practices in CSS design.
+  - A comprehensive recap of the week's teachings.
+  - Introduction to the crucial topic of forms in web applications.
 - **Hands-on Activity:**
-  - Students embark on an integrative project, blending two weeks of HTML and CSS knowledge into a comprehensive design.
+  - Create a registration form gathering basic user info.
+  - Integrate advanced layout structures in the HTML project.
 
 ---
 
-**Upcoming:** Gear up for Week 3, where we introduce Bootstrap and delve into styling libraries, further enhancing the aesthetics and functionality of our web designs. An exciting week lies ahead!
+**Upcoming:** Prepare for Week 2, where we dive deeper into CSS, the language that beautifully styles the web. It promises to be an exciting continuation of our journey in web development!
+
+Happy coding!

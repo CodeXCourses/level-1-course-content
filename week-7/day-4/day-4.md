@@ -1,59 +1,52 @@
-# Week 7: Day 4 – Comprehensive JavaScript Review
+# Week 3: Day 4 – Advanced Bootstrap Topics, Customization, and Utilities
 
-## Session Outline
+## Format: Morning (2 hours)
 
-Focus: A thorough review of fundamental JavaScript concepts including strings, arrays, objects, functions, methods, loops, and control flow.
-
-## Objectives
-
-1. Solidify understanding of basic data structures: strings, arrays, and objects.
-2. Review function creation and usage, including standard functions and methods.
-3. Reinforce knowledge of loops (`for` and `while`) and control flow with `if-else` statements.
-
-## Announcements
-
-- **Preparation for Capstone Project**: Consider how these JavaScript fundamentals can be applied in your upcoming project.
-- **Interactive Review**: Today’s focus is on reviewing and solidifying core JavaScript concepts through practical examples and exercises.
-
-## Key Concepts
-
-### 1. Strings and String Manipulation
-
-- Reviewing string properties, methods, and concatenation.
-- String manipulation techniques and common use cases.
-
-### 2. Arrays and Array Operations
-
-- Deep dive into array methods and properties.
-- Practical examples of manipulating arrays with methods like `push`, `pop`, `map`, `filter`, and `forEach`.
-
-### 3. Understanding Objects
-
-- Overview of objects, properties, and methods in JavaScript.
-- Demonstrating object creation, accessing properties, and using methods.
-
-### 4. Functions and Methods
-
-- Revisiting function declaration, expression, and usage.
-- Understanding the difference between functions and methods within objects.
-
-### 5. Loops and Control Flow
-
-- Refreshing `for` and `while` loop constructs and their practical applications.
-- Reviewing control flow with `if-else` statements and conditional logic.
-
-## Interactive Elements
-
-- **Code-Along Segments**: Participants will engage in coding exercises to apply each concept.
-- **Review Challenges**: Hands-on tasks focusing on using these JavaScript concepts in varied scenarios.
-- **Problem-Solving Exercises**: Real-world examples to solve using learned JavaScript techniques.
-
-## Wrap-Up
-
-- Recap of the day’s JavaScript topics, emphasizing their importance in web development.
-- Discussing how to integrate these concepts into the capstone project.
-- Q&A session for clarifications and further exploration of JavaScript concepts.
+**Purpose:** Dive into Bootstrap's advanced utilities, explore customization options, and enable students to create unique and personalized designs.
 
 ---
 
-**Note for Instructors**: Ensure that students have a clear understanding of each concept. Provide guidance on how these fundamentals are essential for more advanced JavaScript topics and practical applications in projects.
+## Hour 1: Advanced Utilities and Customization
+
+### Bootstrap's Utility Classes (20 minutes):
+
+- Introduce utility classes for common CSS property-value pairs.
+- Discuss utilities for spacing, borders, visibility (like `d-none`), and screen reader content.
+
+### Customizing Bootstrap (20 minutes):
+
+- Explore the customization options Bootstrap offers, from variables to build tools.
+- Discuss the importance of theme customization for brand consistency.
+
+### Responsive Utilities and Display (15 minutes):
+
+- Dive deeper into utilities that aid in responsive design.
+- Showcase classes that adjust display, margin, padding, and more based on breakpoints.
+
+### Interactive Session (5 minutes):
+
+- Students experiment with the utility classes, applying them to enhance responsiveness and refine designs in their projects.
+
+---
+
+## Hour 2: Practical Applications and Project Enhancements
+
+### Component Customization (15 minutes):
+
+- Demonstrate how to further customize components, like Navbars or Modals, beyond default styles.
+- Highlight the balance between customization and maintaining framework consistency.
+
+### Hands-on Project Work (30 minutes):
+
+- Students focus on refining their projects, utilizing the advanced topics and customization techniques learned.
+- Encourage peer reviews: students pair up, evaluate each other's projects, and provide feedback.
+
+### Group Feedback and Showcase (10 minutes):
+
+- Several students showcase their refined projects, discussing any advanced customizations they've implemented.
+- Provide constructive feedback, emphasizing the effective use of Bootstrap's advanced utilities and customization.
+
+### Wrap-Up (5 minutes):
+
+- Summarize the day's exploration of advanced Bootstrap topics and emphasize the power of personalization while working within a framework.
+- Preview Day 5's content: Project finalization, Bootstrap best practices, and looking forward to integrating Bootstrap with JavaScript for dynamic content.

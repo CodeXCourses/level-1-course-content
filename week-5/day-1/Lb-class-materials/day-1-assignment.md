@@ -1,76 +1,82 @@
-# Week 5: Day 1 – Introduction to Git and Basic Concepts
+# Week 4: Day 1 – Diving into JavaScript Fundamentals and Variables
 
-You've had an informative session learning about the significance of source control and the basics of Git. Your workshop assignment is designed to reinforce what you've learned so far and prepare you for the next class.
+Welcome to the world of JavaScript! Today you learned about the fundamentals of JavaScript and how to use variables. Now it's time to put your knowledge to the test.
 
 ## Instructions
 
-Part 1: Hands-on Practice
+1. **Setup Environment**
 
-Now, it's time to extend your hands-on experience with Git.
+   - Open **Visual Studio Code**.
+   - Create a new folder named `JS_Variables_Assignment` on your local machine.
 
-    Fork a new repository: Navigate to this repository,(https://github.com/ReeceRenninger/Fork-Practice). Fork it to create your copy. Make sure to note the repository's URL.
+2. **Create Files**
 
-    Clone your fork: Use the Git command-line or your preferred Git client (e.g., VS Code) to clone the repository you just forked. You should have a local copy on your computer.
+   - Create a new file named `script.js` and `index.html`.
+   - Note that VScode will automatically detect file types based on their extension such as `.html` or `.js`.
+   - VScode will automatically color code your JavaScript file to make it easier to read.
 
-    Create a new markdown file: Inside your local repository, create a simple markdown file (e.g., reflections.md) with your answers to the next portion of the assignment(Part 2).
+3. **index.html**
 
-    Add and commit changes: After completing your questions in part 2, stage your changes and commit them with a meaningful commit message. Push your changes to your remote repository.
+   - Generate a generic HTML page, you are not required to bring in any elements.
+   - JavaScript runs in the browser, so we need to link our JavaScript file to our HTML file.
+   - Ensure you connect your `script.js` file to your `index.html` file. (use a script tag like this `<script src="script.js"></script>`)
+   - **You will be utilizing your dev tools to see your console logs you create below! (hint: right click on your page and click inspect, then click on the console tab in case you need a refresher!)**
 
-Part 2: Reflection
+4. **script.js**
 
-Please answer the following questions in a well-structured paragraph(utilize your markdown file named `reflections.md` and answer these 2 questions):
+   - A good practice when creating JavaScript files is to start your file with a 'use strict'; statement. This will help you avoid common mistakes and write better code.
+   - Create a variable named `firstName` and assign it a value of your first name.
+   - Create a variable named `lastName` and assign it a value of your last name.
+   - Create a variable named `age` and assign it a value of your age.
+   - Create a variable named `isFavoriteFood` and assign it a value of true or false.
+   - Create a variable named `workPhone` and leave it undefined.
+   - Create some variables that are strings, numbers, booleans, undefined, and null.
+   - Console log each variable to the console to see what occurs and how they interact with the different data types.
+   - Console log each variable and try to spell out a full sentence, such as writing our your full name and stating how old you are. (hint: look up how to concatenate strings in JavaScript)
+   - Experiment with creating variables and creating varying sentences with whatever you come up with.
 
-    Why is source control, especially Git, important for software development? Explain the problems that source control systems like Git help solve and the benefits they offer.
+5. **Submission**
 
-    How do local and remote repositories differ, and why is synchronization between them essential when working with Git? Provide a clear understanding of these two aspects of Git.
+   - Zip the "JS_Variables_Assignment" folder.
+   - In the card with the label "Your work" click on the "+ Add or create."
+   - Within that dropdown click file, and attach your zipped folder.
+   - Click the submit button.
+     **or**
+   - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "JS_Variables_Assignment".
 
-Submission:
+## Rubric
 
-Please submit your assignment by pushing the changes to your forked repository on GitHub. Make sure your markdown file and any other changes are visible in your repository.
+# Week 6: Day 1 Assignment - Basic DOM Manipulation and JavaScript Logic - /20
 
-After checking to ensure your files were properly pushed to your forked repository, submit the **link** to your forked repository in the card with the label "Your work", and click on the "+ Add or create" button. Within that dropdown, click "Link," and attach your link. Click the submit button.
-
-# Rubric
-
-## Day 1 Introduction to Git and Basic Concepts - /20
-
-### Hands-on Practice - /10
-
-- **Fully Achieved - 10 pts**
-
-  - The student successfully forked the repository.
-  - The student successfully cloned the repository.
-  - The student successfully created a new markdown file.
-  - The student successfully added and committed their changes.
-  - The student successfully pushed their changes to their remote repository.
-
-- **Partially Achieved - 5 pts**
-
-  - The student successfully forked the repository.
-  - The student successfully cloned the repository.
-  - The student successfully created a new markdown file.
-  - The student successfully added and committed their changes.
-  - The student did not successfully push their changes to their remote repository.
-
-- **Not Achieved - 0 pts**
-  - The student did not successfully fork the repository.
-  - The student did not successfully clone the repository.
-  - The student did not successfully create a new markdown file.
-  - The student did not successfully add and commit their changes.
-  - The student did not successfully push their changes to their remote repository.
-
-### Reflection - /10
+### Project Setup and DOM Manipulation - /10
 
 - **Fully Achieved - 10 pts**
 
-  - The student successfully answered both questions in a well-structured paragraph.
-  - Student provided a clear understanding of the importance of source control and the differences between local and remote repositories.
+  - Successfully set up `index.html` and `script.js` with correct file linking.
+  - Accurately created and appended elements to the DOM using JavaScript.
+  - Implemented dynamic content updates in response to user interaction.
 
 - **Partially Achieved - 5 pts**
 
-  - The student successfully answered both questions in a well-structured paragraph.
-  - Student provided a clear understanding of the importance of source control or the differences between local and remote repositories.
+  - Basic setup of `index.html` and `script.js` with minor issues in file linking or structure.
+  - Made an effort to manipulate the DOM, but with some inaccuracies or incomplete implementation.
 
 - **Not Achieved - 0 pts**
-  - The student did not successfully answer both questions in a well-structured paragraph.
-  - Student did not provide a clear understanding of the importance of source control or the differences between local and remote repositories.
+  - Incorrect or incomplete setup of required files.
+  - Little to no attempt at DOM manipulation or dynamic content updates.
+
+### Implementation of JavaScript Logic - /10
+
+- **Fully Achieved - 10 pts**
+
+  - Correctly used comparison operators and control structures (`if-else`) in JavaScript.
+  - Logic is effectively applied to produce different outputs based on user input.
+
+- **Partially Achieved - 5 pts**
+
+  - Made an attempt to use comparison operators and control structures, but with some errors or lack of complexity.
+  - Demonstrated basic understanding of JavaScript logic, but implementation may be incomplete or incorrect.
+
+- **Not Achieved - 0 pts**
+  - No attempt or incorrect use of comparison operators and control structures.
+  - Failed to apply JavaScript logic to user input or produce varying outputs.

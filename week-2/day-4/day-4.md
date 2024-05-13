@@ -1,55 +1,47 @@
-# Week 2: Day 4 – Mastering Flexbox, Introduction to CSS Grid, and Responsive Design Basics
+# Week 1: Day 4 – Advanced HTML Structures, Styling with `<style>` Element, and Working with External Images
 
 ## Format: Morning (2 hours)
 
-**Purpose:** Solidify understanding of Flexbox, introduce another powerful layout tool (CSS Grid), and lay the foundation for responsive web design.
+**Purpose:** Deepen students' understanding of advanced HTML structures, introduce the `<style>` element for page styling, and teach them how to incorporate external resources like images from Unsplash into their projects. 
 
 ---
 
-## Hour 1: Deep Dive into Flexbox and Intro to CSS Grid
+## Hour 1: Blog Project Structuring Using Advanced HTML Elements and Introduction to the `<style>` Element
 
-### Advanced Flexbox Techniques (20 minutes):
+### Introducing the Blog Project (10 minutes):
+- Recap of the significance of semantic HTML in web design and SEO.
+- Introduction to the day's task: structuring a blog-like project live.
 
-- Revisit and reinforce Flexbox properties.
-- Discuss advanced properties like `flex-wrap`, `flex-grow`, `flex-shrink`, and `flex-basis`.
-- Showcase practical use-cases, such as creating complex layouts with nested flex containers.
+### Live Structuring of a Blog Page and Styling with the `<style>` Element (40 minutes):
+- Construct the foundational layout of the blog using semantic tags: `<main>`, `<article>`, `<header>`, `<section>`, `<aside>`, and `<footer>`.
+- Introduce the `<style>` element to apply global CSS styles to the page and demonstrate how to enhance the blog's appearance.
 
-### Introduction to CSS Grid (25 minutes):
-
-- Introduce Grid as a two-dimensional layout technique.
-- Highlight primary concepts: grid container vs. grid items, grid lines, tracks, and cells.
-- Demonstrate basic properties: `display: grid`, `grid-template-columns`, `grid-template-rows`, and `grid-gap`.
-
-### Interactive Session (15 minutes):
-
-- Students transition their Flexbox-based navigation bar into a Grid-based layout.
-- Encourage experimenting with both layout techniques to understand the strengths of each.
+### Hands-on Structuring and Styling Session (10 minutes):
+- Students practice laying out and styling their blog.
+- Encourage real-time questions and provide immediate feedback.
 
 ---
 
-## Hour 2: Laying Foundations for Responsive Design
+## Hour 2: Enhancing the Blog with External Images and Advanced Attributes
 
-### What is Responsive Design? (10 minutes):
+### Introduction to Unsplash and Image Integration (15 minutes):
+- Guide on how to obtain photos from Unsplash and the importance of attribution.
+- Demonstration on adjusting Unsplash image sizes using the `w` parameter in the URL.
+- Showcase downloading images and embedding them locally in projects.
 
-- Explain the philosophy behind responsive design.
-- Discuss the importance in the context of diverse device sizes and screen resolutions.
+### Live Demonstration: Creating Clickable Thumbnails (20 minutes):
+- Illustrate the creation of image thumbnails linking to separate HTML files displaying the full-sized image.
+- Employ the `id` attribute and the `<style>` element to set the linked image's width to `100vw`.
 
-### Media Queries and Breakpoints (20 minutes):
+### A Deep Dive into Selected Attributes (15 minutes):
+- Revisit `id`, `class`, and previously introduced attributes.
+- Introduction to the `title` attribute for tooltips.
+- Explanation of the `data-*` attribute for extra info storage.
 
-- Introduce the concept of media queries.
-- Demonstrate how to implement basic responsive styles using breakpoints.
+### Interactive Enhancement Session (5 minutes):
+- Students integrate external images and utilize the discussed attributes in their blogs.
 
-### Viewport and Relative Units (15 minutes):
-
-- Discuss the `<meta>` viewport tag and its significance in responsive design.
-- Introduce relative units like `em`, `rem`, `vw`, and `vh`, and explain their advantages over fixed units.
-
-### Interactive Session (10 minutes):
-
-- Students add media queries to their projects, ensuring that their navigation bars adapt to different screen sizes.
-- Experiment with using relative units for font sizes and layout dimensions.
-
-### Wrap-Up (5 minutes):
-
-- Summarize the day's deep dive into layout techniques and the foundation of responsive design.
-- Preview Day 5's content: Finalizing CSS badge requirements, advanced responsive techniques, and a project to bring everything together.
+### Wrap-Up and Transition to Assignment (5 minutes):
+- Summary of the day emphasizing a comprehensive, interactive, and styled blog project.
+- Motivate students to further polish their projects for their assignments.
+- Preview of Day 5: Exploring HTML forms and reinforcing their HTML expertise.

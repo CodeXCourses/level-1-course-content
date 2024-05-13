@@ -1,45 +1,55 @@
-# Week 3: Day 5 – Project Finalization, Best Practices, and Beyond
+# Week 2: Day 5 – Finalizing CSS Concepts, "CSS Diner" Review, and Integrative Project
 
 ## Format: Morning (2 hours)
 
-**Purpose:** Conclude the Bootstrap week by consolidating knowledge, finalizing projects, and understanding how Bootstrap integrates with dynamic content using JavaScript.
+**Purpose:** Wrap up the CSS module by consolidating knowledge, reviewing the "CSS Diner" game for students who faced challenges, and integrating skills into a comprehensive project.
 
 ---
 
-## Hour 1: Project Work and Best Practices
+## Hour 1: "CSS Diner" Review and Finalizing CSS Concepts
 
-### Project Work Session (40 minutes):
+### "CSS Diner" Game Review (20 minutes):
 
-- Students work intensively on their projects, focusing on design finalization, ensuring responsiveness, and implementing best practices.
-- Instructors circulate, providing guidance, offering insights, and troubleshooting issues.
+- Start with an open discussion: Ask students to share levels or selectors they found challenging.
+- Walk through some of the trickier levels based on student feedback, breaking down the solutions.
+- Provide additional resources or tips for understanding complex selectors.
 
-### Bootstrap Best Practices (20 minutes):
+### CSS Concepts Recap (15 minutes):
 
-- Stress the importance of mobile-first design.
-- Emphasize semantic markup and the correct use of Bootstrap classes.
-- Advocate for testing designs across various devices and browsers to ensure broad compatibility.
+- Offer a brief review of key CSS concepts covered throughout the week, focusing on areas where students had questions during the "CSS Diner" game.
+- Address any remaining questions or clarify concepts.
+
+### Advanced Responsive Techniques (15 minutes):
+
+- Dive deeper into media queries, discussing more complex conditional styles.
+- Explore techniques like responsive images and typography.
 
 ---
 
-## Hour 2: Looking Ahead – Bootstrap and Dynamic Content
+## Hour 2: CSS Best Practices and Integrative Project
 
-### Integrating Bootstrap with JavaScript (25 minutes):
+### CSS Best Practices (15 minutes):
 
-- Offer an overview of Bootstrap's JavaScript-based components (e.g., modals, tooltips).
-- Showcase a simple demonstration of a Bootstrap component enhanced with JavaScript for added interactivity.
+- Revisit organization strategies for CSS (e.g., modular styles, commenting).
+- Discuss CSS methodologies like BEM and their benefits.
 
-### Exploring Bootstrap Extensions and Resources (15 minutes):
+### Integrative Project Brief (10 minutes):
 
-- Introduce popular third-party extensions and themes compatible with Bootstrap.
-- Examples: Bootswatch for themed stylesheets, Bootstrap-select for enhanced dropdowns.
+- Introduce a comprehensive project that merges HTML and CSS skills from the past two weeks.
+- Example: A personal portfolio page or a mock landing page for a product.
 
-### Interactive Session (15 minutes):
+### Work Session (30 minutes):
 
-- Students try implementing a basic JavaScript-enhanced Bootstrap component into their projects, such as a modal or collapsible navbar.
-- Encourage experimentation and exploration of third-party extensions.
+- Students embark on their projects, implementing structured HTML content and styled with advanced CSS.
+- Encourage creativity and application of all the week's learning.
 
-### Wrap-Up and Reflection (5 minutes):
+### Showcase and Feedback (5 minutes):
 
-- Reflect on the progression through Bootstrap during the week, from foundational topics to more advanced techniques.
-- Celebrate students' accomplishments and encourage continued exploration and practice.
-- Preview the subsequent week's content: Deep dive into JavaScript, understanding the DOM, and enhancing web interactivity.
+- A few students volunteer to display their projects.
+- Offer constructive feedback, highlighting innovative designs or solutions.
+
+### Wrap-Up and Looking Ahead (5 minutes):
+
+- Celebrate the two-week journey from foundational HTML to advanced CSS.
+- Congratulate students on their progress and urge continued practice.
+- Preview the subsequent week's content: Introduction to Bootstrap and styling libraries.

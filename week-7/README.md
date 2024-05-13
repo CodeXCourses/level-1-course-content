@@ -1,79 +1,60 @@
-# Week 7 Summary: HTML, CSS, Bootstrap, and JavaScript Review
+# Week 3 Summary: Exploring Bootstrap's Power
 
-Welcome to Week 7, where we revisit and consolidate key concepts in web development, from HTML and CSS to Bootstrap and JavaScript. This week is crucial in preparing for the upcoming capstone project.
+Welcome to Week 3, where our web designs come to life with the power and convenience of Bootstrap. This week we immerse ourselves in the world of responsive and modular design using one of the web's most popular frameworks. Let's take a glance at our roadmap for the week:
 
----
+### Day 1: **Introduction to Bootstrap and Basic Styling**
 
-### Day 1: **Review of HTML Fundamentals and Preparing for Capstone Project**
-
-#### Session Outline
-
-- Revisiting core HTML concepts.
-- Preparing for the upcoming capstone project.
-
-#### Objectives
-
-1. Refresh knowledge of HTML structure and purpose.
-2. Explore key HTML elements and semantic vs. non-semantic HTML.
+- **Key Topics:**
+  - Introduction to the Bootstrap framework and its role in front-end development.
+  - The ease of importing and starting with Bootstrap.
+  - Basic styling using Bootstrap's utility classes.
+- **Hands-on Activity:**
+  - Students start by integrating Bootstrap into their projects and play around with spacing classes.
 
 ---
 
-### Day 2: **Review of CSS Basics and Advanced Layouts with Flexbox and Grid**
+### Day 2: **Exploring Bootstrap's Grid System and Key Components**
 
-#### Session Outline
-
-- Refreshing basic CSS syntax and properties.
-- In-depth review of Flexbox and CSS Grid for advanced layouts.
-
-#### Objectives
-
-1. Review CSS syntax and styling principles.
-2. Understand Flexbox and CSS Grid for responsive design.
+- **Key Topics:**
+  - Deep dive into the magic of Bootstrap's grid system.
+  - Introduction to Bootstrap's various components such as alerts, badges, and navigations.
+- **Hands-on Activity:**
+  - Students refine their projects by implementing grid layouts and incorporating various components.
 
 ---
 
-### Day 3: **Building Responsive Sites with Bootstrap 5**
+### Day 3: **Diving Deeper into Bootstrap Components and Practical Applications**
 
-#### Session Outline
-
-- Exploring Bootstrap 5 for responsive web design.
-- Integrating a Bootswatch theme and using Bootstrap components.
-
-#### Objectives
-
-1. Learn the basics of Bootstrap 5 and responsive design.
-2. Develop a responsive website using Bootstrap's grid system and components.
+- **Key Topics:**
+  - Exploration and practical application of various Bootstrap components including breadcrumb, pagination, tooltips, popovers, media objects, and cards.
+  - Advanced design considerations for creating a user-friendly and aesthetically pleasing web interface.
+- **Hands-on Activity:**
+  - Students will create a product display page, employing a range of Bootstrap components to enhance both functionality and design aesthetics.
+  - Focus on refining design elements and experimenting with advanced Bootstrap features to achieve a cohesive and visually appealing user experience.
 
 ---
 
-### Day 4: **Comprehensive JavaScript Review**
 
-#### Session Outline
+### Day 4: **Advanced Bootstrap Topics, Customization, and Utilities**
 
-- Thorough review of JavaScript concepts including data structures, functions, loops, and control flow.
-
-#### Objectives
-
-1. Solidify understanding of strings, arrays, objects, functions, and methods.
-2. Reinforce knowledge of loops and control flow.
-
----
-
-### Day 5: **Capstone Ideas, Wireframing, and Building a JavaScript Project**
-
-#### Session Outline
-
-- Presenting capstone project ideas and wireframing basics.
-- Live coding a simple JavaScript-based application.
-
-#### Objectives
-
-1. Introduce capstone project ideas.
-2. Discuss wireframing and project planning.
-3. Demonstrate building a practical JavaScript application.
+- **Key Topics:**
+  - Understanding and applying Bootstrap's utility classes.
+  - Customizing Bootstrap to fit unique design requirements.
+  - Emphasizing the responsiveness of designs using Bootstrap's utilities.
+- **Hands-on Activity:**
+  - Students fine-tune their projects using advanced utilities and delve into customization.
 
 ---
 
-**Looking Ahead:** As we wrap up this review week, prepare for the capstone project where you'll apply everything learned so far. This will be an opportunity to showcase your skills in creating a comprehensive web project.
+### Day 5: **Project Finalization, Best Practices, and Beyond**
 
-**Note for Instructors:** This week is pivotal for students to solidify their understanding and gear up for the capstone project. Provide support and encourage creative thinking for their upcoming projects.
+- **Key Topics:**
+  - Intensive project work to polish and finalize designs.
+  - Integrating Bootstrap with JavaScript to introduce dynamic elements.
+  - Exploring extensions and resources to further enhance Bootstrap designs.
+- **Hands-on Activity:**
+  - Students conclude their projects, integrating dynamic components, and exploring third-party extensions.
+
+---
+
+**Upcoming:** As we wrap up our week on Bootstrap, gear up for Week 4. We transition into the world of JavaScript, diving deep into the Document Object Model (DOM) and enhancing the interactivity of our web designs. Exciting times ahead!
