@@ -13,5 +13,5 @@ Update for new procedure for Replit and phone users:
 Phone users:
 
 * Fork repo in BROWSER not GitHub APP.
-* In Replit click "Settings" next to Clone from URL
-* Use Shell in Replit to sync with GitHub
+* In Replit click "Settings" next to Clone from URL.
+* Use Shell in Replit to sync with GitHub.
