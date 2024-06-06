@@ -1,25 +1,32 @@
-# Day 3 (Thursday) Script tags
+# Day 2 Nested Elements and Wireframes
 
-## Overview
+Goals:
 
-This is the first day of JavaScript. Since JavaScript is the hardest part of the program, we will introduce it slowly, with one day in week 1 and one day in week 2.
+* Learn about lists
+* See examples of other nested elements
+* See examples of lists of lists
+* Practice writing lists
 
-In the first case, we introduce the SCRIPT tag with document.write.
 
-Check out the book Learn Ruby the Hard way. Or see my [blog post](https://blog.robertm.cc/2024/03/14/are-we-procedural-yet.html) for rational.
+Learn about wireframes:
 
-Goal: Today, we just want to practice writing to the document with document.write in a script tag
+* build a wireframe together
+* learn how to follow a wireframe
 
-## Hour 1
+Hour 1:
 
-Bird's Eye View of JavaScript.
+Learn about lists and nested elements
 
-Demo code with document.write.
+Learn about how to write code from the outside-in
 
-Indicate that this is an intermediary step. We will not write our code this way when we learn new ways.
+Hour 2:
 
-Review using HTML and show adding document.write in many places.
+Create a wireframe on Canva
 
-Bonus: Be creative in where you put your script tags. Can you nest one in an em tag? in a p tag? Look for more places you can put them!
 
-Extension: Read about [document.write on w3schools](https://www.w3schools.com/jsref/met_doc_write.asp). Look at the examples and try them out yourself. Can you find something you can do in JavaScript that you couldn't already do in HTML? Read about [JavaScript output on w3schools](https://www.w3schools.com/js/js_output.asp) for other ways to use JavaScript to modify a page.
+Ask students do make a wireframe in their breakout rooms together.
+
+Hour 3:
+
+Start building your webpages.
+

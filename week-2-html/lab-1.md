@@ -25,8 +25,8 @@ This lab will consist of two parts. Turn the two parts in together when finished
 
 ### Lab 1 instructions
 
-1. Follow the roadmap in the Repo for Part 1 on Day 1.
-2. Follow the roadmap in the Repo for Part 2 on Day 2.
+1. Follow the roadmap in the GitHub Repository for Part 1 on Day 1.
+2. Follow the roadmap in the GitHub Repository for Part 2 on Day 2.
 
 ### Turn in
 
