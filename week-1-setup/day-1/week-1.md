@@ -2,8 +2,8 @@
 
 * Day 0 (Sat): Introductions, inspire, demo, start with mimo
 * Day 1 (Mon): VSCode and Replit (Finish Mimo Lessons 1-3)
-* Day 2 (Tues):  DevTools and Shell
-* Day 3 (Wed): GitHub Forking, Practice A tags and IMG (Finish Mimo Lessons 4-7)
+* Day 2 (Tues):  DevTools (PC only) and Shell (PC/Phone)
+* Day 3 (Wed): GitHub Forking (No pushing), Practice A tags and IMG (Finish Mimo Lessons 4-7)
 * Day 4 (Thur): Git Push in Replit, Introduce Git with VSCode
 * Day 5 (Sat): Review, Practice and Re-Create Mimo project in Replit/VSCode
 
