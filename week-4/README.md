@@ -43,3 +43,6 @@ As we close our fifth week, let's reflect on our journey through the heart of we
 ---
 
 **Upcoming:** As we bid farewell to Week 5, gear up for Week 6, where we will plunge into more advanced JavaScript topics, including events, the Document Object Model (DOM), and integrating JavaScript into our web projects. Prepare to make your websites come alive with interactivity!
+
+
+**Observation: ** The content for Week 4 should focus on pseudocode; however, this summary discusses JavaScript. I believe we could explain how to solve problems, create flowcharts, and translate them into pseudocode.
