@@ -59,6 +59,7 @@
 **Plan:**
 
 * Assign groups. TAs lead groups to build a project plan and wireframe.
+* Be sure to run through Lesson 1/Level 1 Review of HTML before doing wireframe. (You may even make a list of tags students can use as you work through them.)
 
 ---
 
@@ -153,8 +154,12 @@
 
 ### **Day 9 (Thursday): Mini-Project Planning & Execution**
 
-**Topics:** Lesson 10 Mini-Project
-*Details are typically planned in class—see code.org for lesson structure.*
+**Topics:** Lesson 10 CSS Mini-Project
+
+* Introduce the Project Guide
+* Before planning, be sure to run throught Lesson 10/Level 1 CSS Review. You may even make a list of possible CSS properties that may be used in the project.
+* In groups, plan the website (30 min)
+* In breakout rooms, work on the Project.
 
 ---
 
@@ -167,6 +172,8 @@
 ---
 
 ## **Week 3**
+
+**Form groups and build a multi-page website**
 
 ### **Monday: Group Formation & Catch-up**
 

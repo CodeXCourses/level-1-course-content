@@ -77,10 +77,15 @@ Today’s topics include a fundamental review of HTML and CSS, an introduction t
 
 ---
 
-#### **Friday: [Lesson 7: Mini-Project: Robot Faces](https://studio.code.org/courses/csd-2024/units/3/lessons/7/levels/1)**
+#### **Friday: [Lesson 7: Mini-Project: Robot Faces](https://studio.code.org/courses/csd-2024/units/3/lessons/7/student)**
 
-* Combine shapes, variables, randomness
-* Apply the structured problem-solving process
+**Topics:** Combine shapes, variables, random numbers
+
+* Be sure to Cover Lesson 7/Level 1 Review Shape Blocks before starting.
+* Distribute Robot Face [Activity Guide](https://docs.google.com/document/d/1xy53Z--2I9X4k75Besh15eGTY3Rpo8Asdba6uctI9nY/edit?tab=t.0).
+* Demo how to build a face together. Label shapes and aproximate values for parameters
+* Form small breakout rooms to work in. Visit them as time permits.
+* Share progress at end.
 
 ---
 
